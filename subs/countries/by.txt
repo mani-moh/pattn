@@ -2,12 +2,12 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@15d7fft.nl11.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=15d7fft.nl11.h1clayd.click&fp=chrome&sid=c71118d9399fb8c2&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&encryption=none#[🇧🇾 BY] VLESS-Reality | src:0xradikal-all
 vmess://eyJhZGQiOiAiNS4xNjEuMTU2LjE5NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogImludGVybmV0LmxpZmUuY29tLmJ5IiwgImlkIjogImQyMGUzOGVmLTFhNGQtNDAwOS1hMDBkLTJmMGQ0NGUzYzY1YSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJb8J+Hp/Cfh74gQlldIFZNZXNzLXRjcCB8IHNyYzppdHN5ZWJla2hlLXBzZy1taXgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@15d7fft.nl11.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=15d7fft.nl11.h1clayd.click&fp=chrome&sid=c71118d9399fb8c2&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&encryption=none#[🇧🇾 BY] VLESS-Reality | src:0xradikal-all
 vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@15d7fft.nl11.h1clayd.click:443?sni=15d7fft.nl11.h1clayd.click&fp=chrome&security=tls#[🇧🇾 BY] VLESS | src:ermaozi-get-subscribe
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?sni=178.172.227.228&type=ws&host=178.172.227.228&path=/vless#[🇧🇾 BY] VLESS-ws | src:ermaozi-get-subscribe
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?#[🇧🇾 BY] VLESS | src:delta-kronecker-all
-vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?type=ws&host=95.128.71.79&path=/vless#[🇧🇾 BY] VLESS-ws | src:heliataromi-confighub-mixed
+vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?type=ws&host=95.128.71.79&path=/vless#[🇧🇾 BY] VLESS-ws | src:peasoft-nomorewalls
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?sni=ads.x5.ru&flow=xtls-rprx-vision&fp=safari&security=tls#[🇧🇾 BY] VLESS | src:ermaozi-get-subscribe
 vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@79.182.39.108:443?sni=15d7fft.nl11.h1clayd.click&fp=firefox&security=tls#[🇧🇾 BY] VLESS | src:ermaozi-get-subscribe
 vless://19201df4-60db-45be-ad2a-4698f834cda8@193.187.95.125:23445?security=reality&flow=xtls-rprx-vision&pbk=4gsBmGLP8DPaO6fX4G5Twq3tYY6q70UM8hE6N6GY0BQ&sid=326054eb7772bc5f&sni=www.faceit.com&fp=randomized#[🇧🇾 BY] VLESS-Reality | src:ewecrow78-whitelist1

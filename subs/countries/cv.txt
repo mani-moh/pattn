@@ -7,3 +7,4 @@ vless://8f317272-36ed-4235-9c19-94c5a4dc9d21@141.193.213.20:8443?security=tls&en
 trojan://ltgp0n3l2z4f7t57@angelvpn.angelmh.cv:1633?security=reality&pbk=u3QgazUHzHjIpDdERKjAimr_01RRQdXuK9kMt5MsWzU&headerType=none&fp=chrome&spx=/587a65acecd29f8&type=tcp&sni=fornex.com&sid=45b9#[🇨🇻 CV] Trojan-Reality | src:0xradikal-all
 vless://74e155ef-1a8d-42db-8c20-7aaa62ca5998@mhzedir.qzz.io:2059?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=angelvpn.angelmh.cv#[🇨🇻 CV] VLESS-tcp | src:0xradikal-all
 vless://aada3b83-8862-484e-8ac4-31343acba3e1@mhzedir.qzz.io:2059?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=angelvpn.angelmh.cv#[🇨🇻 CV] VLESS-tcp | src:0xradikal-all
+vless://073d862c-6fdf-4dbd-be8c-ecb650bc3e60@angelvpn.angelmh.cv:3174?mode=auto&path=/&security=none&encryption=none&extra={#[🇨🇻 CV] VLESS | src:solispirit-all
