@@ -775,6 +775,30 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "sub-a0f0217246",
+      "name": "Web Mined (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/alicyberrr/NoizVpn-Sub/main/output/base64.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "web-mined"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-b51d9f9305",
+      "name": "Web Mined (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/alicyberrr/NoizVpn-Sub/main/output/plain.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "web-mined"
+      ],
+      "enabled": true
     }
   ]
 }

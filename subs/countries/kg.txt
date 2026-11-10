@@ -2,10 +2,11 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@104.18.32.47:443?path=%2Ffree%2F1.226.227.169%3A50001&security=tls&encryption=none&insecure=0&host=nuclear.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=nuclear.us.kg#[🇰🇬 KG] VLESS-ws | src:igareck-vless-rus
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@104.21.14.232:443?path=%2Ffree%2F1.226.227.169%3A50001&security=tls&encryption=none&insecure=0&host=nuclear.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=nuclear.us.kg#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
 vmess://eyJhZGQiOiAiMTg1LjQ4LjEzNi4xNTAiLCAiYWlkIjogMCwgImhvc3QiOiAic2F6Z2FyMjIuemFwdG8ub3JnIiwgImlkIjogIjE0YmI5MjdmLWE0ZWMtNGRlNy05MGZiLTM4OGMxZjY5ZGJjMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJb8J+HsPCfh6wgS0ddIFZNZXNzLXdzIHwgc3JjOm1haGFua2Vud2F5LWZyZWVkb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@104.18.32.47:443?path=%2Ffree%2F1.226.227.169%3A50001&security=tls&encryption=none&insecure=0&host=nuclear.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=nuclear.us.kg#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@104.21.14.232:443?path=%2Ffree%2F1.226.227.169%3A50001&security=tls&encryption=none&insecure=0&host=nuclear.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=nuclear.us.kg#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?path=%2Fyoulingkaishi&security=tls&encryption=none&host=vbbc.ylks2024.us.kg&type=ws&sni=vbbc.ylks2024.us.kg#[🇰🇬 KG] VLESS-ws | src:farid-karimi-vless-iran
+vless://13ba9154-0ace-443b-b38a-5349031d4e1d@188.114.96.6:443?path=/---------DisVpn---------DisVpn---------DisVpn&security=tls&encryption=none&alpn=h2,http/1.1&host=DisVpn.us.kg&fp=randomized&type=ws&sni=DisVpn.us.kg#[🇰🇬 KG] VLESS-ws | src:0xradikal-all
 trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#[🇰🇬 KG] Trojan-ws | src:0xradikal-all
 trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#[🇰🇬 KG] Trojan-ws | src:0xradikal-all
 trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#[🇰🇬 KG] Trojan-ws | src:0xradikal-all
@@ -37,6 +38,7 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.196:443/?type=ws&encryp
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.60:443/?type=ws&encryption=none&flow=&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=dse.bgm2024.us.kg#[🇰🇬 KG] VLESS-ws | src:lalatinahub-mineral
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.54:443/?type=ws&encryption=none&flow=&host=dsb.ylks.us.kg&path=%2F%3F...&security=tls&sni=dsb.ylks.us.kg#[🇰🇬 KG] VLESS-ws | src:lalatinahub-mineral
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.183.88.172:443/?type=ws&encryption=none&flow=&host=dsc.ylks.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=dsc.ylks.us.kg#[🇰🇬 KG] VLESS-ws | src:lalatinahub-mineral
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.67.160.192:443/?type=ws&encryption=none&flow=&host=nuclear.us.kg&path=%2Ffree%2F103.101.153.32%3A443&security=tls&sni=nuclear.us.kg#[🇰🇬 KG] VLESS-ws | src:lalatinahub-mineral
 vless://40d11375-f419-4617-91b8-e97edf972632@104.21.24.161:443/?type=ws&encryption=none&flow=&host=ba.ylka.us.kg&path=%2F%3Fed...&security=tls&sni=ba.ylka.us.kg#[🇰🇬 KG] VLESS-ws | src:lalatinahub-mineral
 vless://40d11375-f419-4617-91b8-e97edf972632@185.146.173.20:443/?type=ws&encryption=none&flow=&host=yla.ylks.us.kg&path=%2F%253...&security=tls&sni=yla.ylks.us.kg#[🇰🇬 KG] VLESS-ws | src:lalatinahub-mineral
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@192.0.54.235:443/?type=ws&encryption=none&flow=&host=mmdserver.us.kg&path=%2F&security=tls&sni=mmdserver.us.kg&packetEncoding=xudp#[🇰🇬 KG] VLESS-ws | src:lalatinahub-mineral
