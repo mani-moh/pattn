@@ -2,10 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇲 UM] VLESS-grpc | src:0xradikal-all
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇺🇲 UM] Trojan-ws | src:0xradikal-all
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&authority=%2F%3FJOIN---PLANB_PROXY&type=grpc#[🇺🇲 UM] VLESS-grpc | src:0xradikal-all
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇲 UM] VLESS-grpc | src:0xradikal-all
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇺🇲 UM] Trojan-ws | src:0xradikal-all
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇲 UM] VLESS-grpc | src:elf2017spring-configshub
 trojan://CZC2eFReAwaON4nzF3zY7XC9nB3IqIaT3Eaa8S7D3B5Y3XuSEp8Z0ygl08S3SSxy6wDRC@blender.appagent.net:28332?security=tls&headerType=none&fp=chrome&type=tcp&sni=blender.appagent.net#[🇺🇲 UM] Trojan-tcp | src:elf2017spring-configshub
 trojan://F9OKESxKjSDExSeaOw7XyINxDzaOZqeKxCeIczYYED8ewZ2Yl9AppAySO3XwFNy3lCaXDDCFnlACSB0@pricey.appagent.net:28334?security=tls&headerType=none&fp=chrome&type=tcp&sni=pricey.appagent.net#[🇺🇲 UM] Trojan-tcp | src:elf2017spring-configshub

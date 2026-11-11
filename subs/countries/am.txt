@@ -2,9 +2,8 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://b539f58c-0b71-4d3e-9d5c-ecac132cb99d@193.111.205.224:47615?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24&pbk=tZa1-3ktQrmHb7M1BoxxwicDP_BE2VDxMrvO4enQRE4&fp=chrome&spx=%2Ff93090456564e04&type=grpc&sni=it.nvidia.com&sid=d50f#[🇦🇲 AM] VLESS-Reality | src:0xradikal-all
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@157.228.71.76:443?security=reality&amp;encryption=none&amp;pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=it1.japancase.site&amp;sid=41ae8e266bc3346f#[🇦🇲 AM] VLESS-Reality | src:heliataromi-confighub-mixed
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=armwwww.appleseraj.ir&sni=armwwww.appleseraj.ir&fp=chrome#[🇦🇲 AM] VLESS-ws | src:0xradikal-all
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@157.228.71.76:443?security=reality&amp;encryption=none&amp;pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=it1.japancase.site&amp;sid=41ae8e266bc3346f#[🇦🇲 AM] VLESS-Reality | src:heliataromi-confighub-mixed
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZHBNNFJPdm9MdGF5aTdOTjlESUlk@194.156.103.148:443#[🇦🇲 AM] SS | src:sub-07d2577deb
 vless://636d3fe4-eb1f-49ee-9f70-2f4ec935015a@am.speeditest.ir:81?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇦🇲 AM] VLESS-tcp | src:elf2017spring-configshub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@198.62.62.175:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#[🇦🇲 AM] VLESS-ws | src:elf2017spring-configshub
