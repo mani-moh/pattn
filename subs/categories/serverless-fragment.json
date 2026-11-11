@@ -1779,7 +1779,7 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 169.197.142.22:18000 210ms n/a",
+    "remarks": "🇺🇸 | 156.146.38.169:443 209ms n/a",
     "log": {
       "loglevel": "warning"
     },
@@ -1817,30 +1817,23 @@
     ],
     "outbounds": [
       {
-        "protocol": "vmess",
+        "protocol": "shadowsocks",
         "settings": {
-          "vnext": [
+          "servers": [
             {
-              "address": "169.197.142.22",
-              "port": 18000,
-              "users": [
-                {
-                  "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
-                  "alterId": 0,
-                  "security": "auto"
-                }
-              ]
+              "address": "156.146.38.169",
+              "port": 443,
+              "method": "aes-128-gcm",
+              "password": "shadowsocks"
             }
           ]
         },
+        "tag": "proxy",
         "streamSettings": {
-          "network": "tcp",
-          "security": "none",
           "sockopt": {
             "dialerProxy": "entry"
           }
-        },
-        "tag": "proxy"
+        }
       },
       {
         "protocol": "vmess",
@@ -1882,7 +1875,7 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 167.88.61.52:443 320ms 260.6Mbps",
+    "remarks": "🇺🇸 | 156.146.38.170:443 241ms n/a",
     "log": {
       "loglevel": "warning"
     },
@@ -1920,29 +1913,23 @@
     ],
     "outbounds": [
       {
-        "protocol": "trojan",
+        "protocol": "shadowsocks",
         "settings": {
           "servers": [
             {
-              "address": "167.88.61.52",
+              "address": "156.146.38.170",
               "port": 443,
-              "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a"
+              "method": "aes-128-gcm",
+              "password": "shadowsocks"
             }
           ]
         },
+        "tag": "proxy",
         "streamSettings": {
-          "network": "tcp",
-          "security": "tls",
-          "tlsSettings": {
-            "allowInsecure": false,
-            "serverName": "courses.browseseniorrolesandenhanceyourcareertoday.com",
-            "fingerprint": "chrome"
-          },
           "sockopt": {
             "dialerProxy": "entry"
           }
-        },
-        "tag": "proxy"
+        }
       },
       {
         "protocol": "trojan",
@@ -1982,7 +1969,7 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 167.88.61.20:443 343ms n/a",
+    "remarks": "🇺🇸 | 66.163.114.126:443 368ms n/a",
     "log": {
       "loglevel": "warning"
     },
@@ -2024,7 +2011,7 @@
         "settings": {
           "servers": [
             {
-              "address": "167.88.61.20",
+              "address": "66.163.114.126",
               "port": 443,
               "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a"
             }
@@ -2035,7 +2022,7 @@
           "security": "tls",
           "tlsSettings": {
             "allowInsecure": false,
-            "serverName": "api.browseseniorrolesandenhanceyourcareertoday.com"
+            "serverName": "resources.findconnectwithemployersandbuildprofessionalnetwork.com"
           },
           "sockopt": {
             "dialerProxy": "entry"
@@ -2083,7 +2070,7 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 167.88.61.85:443 369ms n/a",
+    "remarks": "🇺🇸 | 66.163.114.114:443 396ms 54.1Mbps",
     "log": {
       "loglevel": "warning"
     },
@@ -2125,7 +2112,7 @@
         "settings": {
           "servers": [
             {
-              "address": "167.88.61.85",
+              "address": "66.163.114.114",
               "port": 443,
               "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a"
             }
@@ -2136,7 +2123,7 @@
           "security": "tls",
           "tlsSettings": {
             "allowInsecure": false,
-            "serverName": "resources.browseseniorrolesandenhanceyourcareertoday.com"
+            "serverName": "learn.findconnectwithemployersandbuildprofessionalnetwork.com"
           },
           "sockopt": {
             "dialerProxy": "entry"
@@ -2184,7 +2171,7 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 167.88.61.193:443 793ms 135.8Mbps",
+    "remarks": "🇺🇸 | 66.163.114.45:443 827ms 127.5Mbps",
     "log": {
       "loglevel": "warning"
     },
@@ -2226,7 +2213,7 @@
         "settings": {
           "servers": [
             {
-              "address": "167.88.61.193",
+              "address": "66.163.114.45",
               "port": 443,
               "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a"
             }
@@ -2237,7 +2224,7 @@
           "security": "tls",
           "tlsSettings": {
             "allowInsecure": false,
-            "serverName": "browseseniorrolesandenhanceyourcareertoday.com"
+            "serverName": "cdn.findconnectwithemployersandbuildprofessionalnetwork.com"
           },
           "sockopt": {
             "dialerProxy": "entry"
