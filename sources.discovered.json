@@ -799,6 +799,83 @@
         "web-mined"
       ],
       "enabled": true
+    },
+    {
+      "id": "tg-privatevpns",
+      "name": "Telegram @privatevpns",
+      "url": "https://t.me/s/privatevpns",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-bored_vpn",
+      "name": "Telegram @bored_vpn",
+      "url": "https://t.me/s/bored_vpn",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "gh-5b48437fa8",
+      "name": "GitHub Auto (amirali098-sys/v2ray-sub)",
+      "url": "https://raw.githubusercontent.com/amirali098-sys/v2ray-sub/main/sub.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "github"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-proxymtprotoir",
+      "name": "Telegram @proxymtprotoir",
+      "url": "https://t.me/s/proxymtprotoir",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-givevpn",
+      "name": "Telegram @givevpn",
+      "url": "https://t.me/s/givevpn",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-vpn_click",
+      "name": "Telegram @vpn_click",
+      "url": "https://t.me/s/vpn_click",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }
