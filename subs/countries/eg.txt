@@ -2,9 +2,9 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
+vless://a5b2e7c2-3b91-4fc7-a9b7-58c2c065b99a@5.59.204.221:30111?flow=xtls-rprx-vision&fp=firefox&pbk=tt35z7OjUx1kFP0ymroVmbVMiflTzKCkAKbqkhlv7AE&security=reality&sid=91570bdd8b38b7d9&sni=eg1.hat.onl&type=raw#[✅] [🇪🇬 EG] VLESS-Reality | src:luxxuria-speed-tested
 trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.59.90:443?allowInsecure=1&sni=38.54.59.90#[🇪🇬 EG] Trojan | src:0xradikal-all
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?allowInsecure=1&fp=chrome&sni=ekb.eg#[🇪🇬 EG] Trojan | src:0xradikal-all
-vmess://eyJhZGQiOiAiMTU5LjIyMy4xMy4xMDkiLCAiYWlkIjogIjAiLCAiaWQiOiAiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6ICIxMjM0IiwgInBzIjogIlvwn4eq8J+HrCBFR10gVk1lc3MtdGNwIHwgc3JjOjB4cmFkaWthbC1hbGwiLCAic2N5IjogImFlcy0xMjgtZ2NtIiwgInNuaSI6ICJla2IuZWciLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.59.107:990#[🇪🇬 EG] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11201#[🇪🇬 EG] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11202#[🇪🇬 EG] SS | src:sub-07d2577deb
@@ -14,3 +14,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11205#[�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#[🇪🇬 EG] SS | src:lalatinahub-mineral
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ekb.eg&type=tcp&headerType=none&path=%2F#[🇪🇬 EG] VLESS-tcp | src:leon406-subcrawler-vless
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?sni=ekb.eg&flow=xtls-rprx-vision&fp=firefox&security=tls#[🇪🇬 EG] VLESS | src:leon406-subcrawler-vless
+vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=%2Fpai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#[🇪🇬 EG] VLESS-ws | src:tg-filtershekan_channel

@@ -2,10 +2,12 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@15b171g.nl7.h1clayd.click:443?sni=15b171g.nl7.h1clayd.click&type=grpc&serviceName=5b79e8a94241&fp=chrome&security=tls#[🇦🇱 AL] VLESS-grpc | src:ermaozi-get-subscribe
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?sni=5d0319t.nl7.h1clayd.click&fp=firefox&security=tls#[🇦🇱 AL] VLESS | src:leon406-subcrawler-vless
-vmess://eyJhZGQiOiAiNDUuMTUuMTcwLjIzNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJwZWxhbmcub3JnIiwgImlkIjogIjgyMGQ0YjRmLTMzNTctNGRjNy05MzgxLTZlNWZkNTJiNWYzOSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJb8J+HpvCfh7EgQUxdIFZNZXNzLXdzIHwgc3JjOjB4cmFkaWthbC1hbGwiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTmM5aC80TkE5UTZaSE5lWUhvVDVYL2ZSOWFvRTlLUVIxU1doVkRIQm9nPQ==@130.49.189.158:43558#[✅] [🇦🇱 AL] SS | src:0xradikal-all | 183ms
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?sni=5d0319t.nl7.h1clayd.click&fp=firefox&security=tls#[🇦🇱 AL] VLESS | src:ermaozi-get-subscribe
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ==@130.49.189.158:43558#[🇦🇱 AL] SS | src:0xradikal-all
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.183:443?&security=reality&pbk=jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q&sid=2d2598d60447a967&fp=firefox&sni=e60833x.nl7.h1clayd.click&type=xhttp#[🇦🇱 AL] VLESS-Reality | src:ermaozi-get-subscribe
 ss://YWVzLTI1Ni1nY206dHhtSzlXaHdQNldQaFA3aHFTQkxWeHBO@31.171.153.133:34687#[🇦🇱 AL] SS | src:farid-karimi-mixed-iran
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50120?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=n4sk3x-GS3uCHsert4qOJQt_RzjcTPGFQvRImsnsyTA&sid=289f5ebf78f79b&sni=api.adidas.com#[🇦🇱 AL] VLESS-Reality | src:barry-far-all
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.221.5:443?security=reality&encryption=none&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl4.japancase.site&sid=9f05c35b73b47d53#[🇦🇱 AL] VLESS-Reality | src:0xradikal-all
 vless://38de3363-7945-402e-9a9b-6f2f9015a44e@allba.connect-qik.uk:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=allba.connect-qik.uk&fp=chrome&alpn=h2,http/1.1#[🇦🇱 AL] VLESS-tcp | src:0xradikal-all
 vless://69eb5502-0090-47be-a602-2c61c2074d93@wwww.qarvian.ir:443?encryption=none&security=tls&sni=firefox.com&insecure=0&allowInsecure=0&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=albaniaoijji.global.ssl.fastly.net#[🇦🇱 AL] VLESS-ws | src:0xradikal-all
@@ -13,6 +15,7 @@ vless://f62a37f3-f7df-4673-a7c8-06a9fc72c6ea@yt.alba.xanka.best:1337?security=re
 vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#[🇦🇱 AL] VLESS-Reality | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKR3Y2MTZoTVdkamZ1WjAwallmcTdYa0JISlpyT0JyZw@87.121.162.249:443#[🇦🇱 AL] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@130.49.189.54:8388#[🇦🇱 AL] SS | src:0xradikal-all
+vmess://eyJhZGQiOiAiNDUuMTUuMTcwLjIzNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJwZWxhbmcub3JnIiwgImlkIjogIjgyMGQ0YjRmLTMzNTctNGRjNy05MzgxLTZlNWZkNTJiNWYzOSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJb8J+HpvCfh7EgQUxdIFZNZXNzLXdzIHwgc3JjOjB4cmFkaWthbC1hbGwiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#[🇦🇱 AL] VLESS-Reality | src:elf2017spring-configshub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#[🇦🇱 AL] SS | src:elf2017spring-configshub
 vless://8bf5c07a-acd3-4360-b940-62d6b77699af@104.16.53.11:8080?path=/&security=none&encryption=none&host=locationbasedservicesalbania-0kami.okatestoka.ir&type=httpupgrade#[🇦🇱 AL] VLESS-httpupgrade | src:elf2017spring-configshub

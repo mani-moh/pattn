@@ -876,6 +876,143 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "gh-f2dad2649c",
+      "name": "GitHub Auto (mehrtat/vless-collector)",
+      "url": "https://raw.githubusercontent.com/mehrtat/vless-collector/main/sub.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "github"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "gh-42814a7c1e",
+      "name": "GitHub Auto (mehrdad-tat/vless-collector)",
+      "url": "https://raw.githubusercontent.com/mehrdad-tat/vless-collector/main/sub.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "github"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-2651f9a7d7",
+      "name": "Discovered Sub (https://www.v2nodes.com/subscr...)",
+      "url": "https://www.v2nodes.com/subscriptions/country/all/",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-wallweb",
+      "name": "Telegram @wallweb",
+      "url": "https://t.me/s/wallweb",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-gozargahazad",
+      "name": "Telegram @gozargahazad",
+      "url": "https://t.me/s/gozargahazad",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-d949ae25e2",
+      "name": "Discovered Sub (https://cdn.jsdelivr.net/gh/0x...)",
+      "url": "https://cdn.jsdelivr.net/gh/0xRadikal/Free-v2ray-Configs@main/heavy/configs_base64.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-6fa360c939",
+      "name": "Discovered Sub (https://cdn.jsdelivr.net/gh/0x...)",
+      "url": "https://cdn.jsdelivr.net/gh/0xRadikal/Free-v2ray-Configs@main/light/configs_base64.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-raydikalx",
+      "name": "Telegram @raydikalx",
+      "url": "https://t.me/s/raydikalx",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-1218e5f2fc",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-azadnet",
+      "name": "Telegram @azadnet",
+      "url": "https://t.me/s/azadnet",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-filtershekan_channel",
+      "name": "Telegram @filtershekan_channel",
+      "url": "https://t.me/s/filtershekan_channel",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }

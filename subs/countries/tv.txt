@@ -2,6 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@144.31.140.125:8443?sni=twitch.tv&flow=xtls-rprx-vision&fp=firefox&security=tls#[🇹🇻 TV] VLESS | src:ermaozi-get-subscribe
 vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#[🇹🇻 TV] VLESS-Reality | src:barry-far-all
 vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@147.45.51.171:8443?flow=xtls-rprx-vision&fp=firefox&pbk=dPa581kev2x9-st7VQ-DTh3NjXlHJ2830YDySuI8n2U&security=reality&sid=e723d26df67888b9&sni=twitch.tv&type=tcp#[🇹🇻 TV] VLESS-Reality | src:0xradikal-all
 vless://834ceabf-2853-4059-a167-5ffda883115d@104.17.48.63:443?type=ws&encryption=none&flow=&host=server22.aibox.tv&path=%25...&security=tls&sni=server22.aibox.tv#[🇹🇻 TV] VLESS-ws | src:lalatinahub-mineral
