@@ -2,9 +2,8 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50131?security=reality&amp;encryption=none&amp;pbk=D-7bbtY-0R7n8bX_n-tMlnNPkgy1-y7zaxQvmHrcAHQ&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=api.adidas.com&amp;sid=edcd88f8279bfd9b#[🇭🇷 HR] VLESS-Reality | src:delta-kronecker-all
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50131?#[🇭🇷 HR] VLESS | src:peasoft-nomorewalls
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50131?#[🇭🇷 HR] VLESS | src:heliataromi-confighub-mixed
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50131?security=reality&encryption=none&pbk=D-7bbtY-0R7n8bX_n-tMlnNPkgy1-y7zaxQvmHrcAHQ&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=api.adidas.com&sid=edcd88f8279bfd9b#[🇭🇷 HR] VLESS-Reality | src:0xradikal-all
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#[🇭🇷 HR] VLESS-Reality | src:elf2017spring-configshub
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50131?security=reality&flow=xtls-rprx-vision&fp=ios&pbk=D-7bbtY-0R7n8bX_n-tMlnNPkgy1-y7zaxQvmHrcAHQ&sid=edcd88f8279bfd9b&sni=api.adidas.com#[🇭🇷 HR] VLESS-Reality | src:sub-42245810b7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCSHhEbjhaNjd6dWFvUXNqSHFTQU1RUXM4RHoxQ0dxSg@77.216.2.178:30#[🇭🇷 HR] SS | src:lalatinahub-mineral
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg@185.156.110.92:443#[🇭🇷 HR] SS | src:lalatinahub-mineral
