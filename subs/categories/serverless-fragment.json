@@ -1779,7 +1779,7 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 193.151.160.9:19999 204ms 61.0Mbps",
+    "remarks": "🇺🇸 | 185.230.230.18:19999 188ms 70.0Mbps",
     "log": {
       "loglevel": "warning"
     },
@@ -1821,7 +1821,7 @@
         "settings": {
           "servers": [
             {
-              "address": "193.151.160.9",
+              "address": "185.230.230.18",
               "port": 19999,
               "method": "aes-256-gcm",
               "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
@@ -1846,7 +1846,7 @@
                 {
                   "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
                   "alterId": 0,
-                  "security": "auto"
+                  "security": "aes-128-gcm"
                 }
               ]
             }
@@ -1875,7 +1875,7 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 193.151.160.18:19999 250ms 345.3Mbps",
+    "remarks": "🇺🇸 | 66.163.122.113:443 321ms 341.9Mbps",
     "log": {
       "loglevel": "warning"
     },
@@ -1913,23 +1913,28 @@
     ],
     "outbounds": [
       {
-        "protocol": "shadowsocks",
+        "protocol": "trojan",
         "settings": {
           "servers": [
             {
-              "address": "193.151.160.18",
-              "port": 19999,
-              "method": "aes-256-gcm",
-              "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+              "address": "66.163.122.113",
+              "port": 443,
+              "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a"
             }
           ]
         },
-        "tag": "proxy",
         "streamSettings": {
+          "network": "tcp",
+          "security": "tls",
+          "tlsSettings": {
+            "allowInsecure": false,
+            "serverName": "api.searchnationwidecareerchangehelperandguidancetoday.com"
+          },
           "sockopt": {
             "dialerProxy": "entry"
           }
-        }
+        },
+        "tag": "proxy"
       },
       {
         "protocol": "trojan",
@@ -1969,7 +1974,7 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 169.197.140.224:443 368ms 81.5Mbps",
+    "remarks": "🇺🇸 | 66.163.122.25:443 352ms 125.6Mbps",
     "log": {
       "loglevel": "warning"
     },
@@ -2011,7 +2016,7 @@
         "settings": {
           "servers": [
             {
-              "address": "169.197.140.224",
+              "address": "66.163.122.25",
               "port": 443,
               "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a"
             }
@@ -2022,7 +2027,7 @@
           "security": "tls",
           "tlsSettings": {
             "allowInsecure": false,
-            "serverName": "resources.discoverfreshgraduatejobsstartyourprofessionaljourney.com"
+            "serverName": "cdn.searchnationwidecareerchangehelperandguidancetoday.com"
           },
           "sockopt": {
             "dialerProxy": "entry"
@@ -2070,7 +2075,7 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 45.86.51.18:19999 534ms 106.4Mbps",
+    "remarks": "🇺🇸 | 45.86.51.18:19999 527ms 102.8Mbps",
     "log": {
       "loglevel": "warning"
     },
@@ -2157,7 +2162,7 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 169.197.140.245:443 619ms 7.1Mbps",
+    "remarks": "🇺🇸 | 66.163.122.7:443 595ms 149.5Mbps",
     "log": {
       "loglevel": "warning"
     },
@@ -2199,7 +2204,7 @@
         "settings": {
           "servers": [
             {
-              "address": "169.197.140.245",
+              "address": "66.163.122.7",
               "port": 443,
               "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a"
             }
@@ -2210,7 +2215,7 @@
           "security": "tls",
           "tlsSettings": {
             "allowInsecure": false,
-            "serverName": "www.discoverfreshgraduatejobsstartyourprofessionaljourney.com"
+            "serverName": "www.searchnationwidecareerchangehelperandguidancetoday.com"
           },
           "sockopt": {
             "dialerProxy": "entry"
@@ -2229,7 +2234,7 @@
                 {
                   "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
                   "alterId": 0,
-                  "security": "aes-128-gcm"
+                  "security": "auto"
                 }
               ]
             }
