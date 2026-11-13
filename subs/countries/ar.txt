@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:59899?#[🇦🇷 AR] VLESS | src:heliataromi-confighub-mixed
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:59899?#[🇦🇷 AR] VLESS | src:ermaozi-get-subscribe
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#[🇦🇷 AR] SS | src:lalatinahub-mineral
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#[🇦🇷 AR] SS | src:sub-07d2577deb
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@190.103.176.32:989#[🇦🇷 AR] SS | src:sub-07d2577deb
