@@ -2,8 +2,6 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇲 UM] VLESS-grpc | src:0xradikal-all
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&authority=%2F%3FJOIN---PLANB_PROXY&type=grpc#[🇺🇲 UM] VLESS-grpc | src:0xradikal-all
 vless://4c360a19-8d5d-4c7b-b2cd-a4825714554a@161.35.184.205:2053?security=reality&encryption=none&pbk=G6mshB36vZocfQp04RGcOjWFs52JjJhdvpI7wApQf00&headerType=none&fp=chrome&type=tcp&sni=www.openstreetmap.org&sid=d7#[🇺🇲 UM] VLESS-Reality | src:elf2017spring-configshub
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[🇺🇲 UM] Trojan-ws | src:0xradikal-all
 vless://97e0ea78-67ae-4984-8a14-a7d1a51e58de@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#[🇺🇲 UM] VLESS-ws | src:0xradikal-all
@@ -23,7 +21,6 @@ vless://93382dc3-a897-402f-8f6a-261f867f1e43@m45a.vip784.com:33801?flow=&type=tc
 vless://9b3d65ab-576c-4750-9cb3-bb41c12c085e@172.245.251.10:8443?security=reality&encryption=none&pbk=XgQPLMVHvbUKTzcAZPBDGZ_mDhaZRiAJEk7c4-7UzR4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ieee.org#[🇺🇲 UM] VLESS-Reality | src:elf2017spring-configshub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?mode=gun&security=&encryption=none&type=grpc#[🇺🇲 UM] VLESS-grpc | src:elf2017spring-configshub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇲 UM] VLESS-grpc | src:elf2017spring-configshub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇺🇲 UM] VLESS-grpc | src:0xradikal-all
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#[🇺🇲 UM] VLESS-grpc | src:elf2017spring-configshub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?encryption=none&security=none&type=grpc#[🇺🇲 UM] VLESS-grpc | src:elf2017spring-configshub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.91:8880?mode=gun&security=&encryption=none&type=grpc#[🇺🇲 UM] VLESS-grpc | src:elf2017spring-configshub

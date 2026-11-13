@@ -1013,6 +1013,69 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "sub-3d9683d61c",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-b80d157356",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/ShadowException/VPN/refs/heads/main/configs/VPN-cat#shadowexception",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-king_network7",
+      "name": "Telegram @king_network7",
+      "url": "https://t.me/s/king_network7",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-deamnet_proxy",
+      "name": "Telegram @deamnet_proxy",
+      "url": "https://t.me/s/deamnet_proxy",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-vpnine1",
+      "name": "Telegram @vpnine1",
+      "url": "https://t.me/s/vpnine1",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }
