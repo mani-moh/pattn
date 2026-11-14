@@ -1076,6 +1076,31 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "tg-ln2ray",
+      "name": "Telegram @ln2ray",
+      "url": "https://t.me/s/ln2ray",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-2516e474b9",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
     }
   ]
 }

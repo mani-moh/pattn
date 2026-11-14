@@ -2,7 +2,8 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://f418674e-f518-4318-8ff9-e10000000046@172.67.131.125:2083?security=tls&type=ws&path=%2Fsync&host=smart-edge-424.arti98399-1905.workers.dev&sni=smart-edge-424.arti98399-1905.workers.dev&fp=chrome#[🇭🇺 HU] VLESS-ws | src:0xradikal-all
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@38.180.225.247:2053/?type=ws&encryption=none&flow=&host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&fp=chrome#[🇭🇺 HU] VLESS-ws | src:v2freehub-sub
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@38.180.225.247:2053/?type=ws&encryption=none&flow=&host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com#[🇭🇺 HU] VLESS-ws | src:v2freehub-sub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.130.160:989#[🇭🇺 HU] SS | src:farid-karimi-mixed-iran
 vmess://eyJhZGQiOiAiMTg1LjEyOC4yNi43MCIsICJhaWQiOiA2NCwgImhvc3QiOiAid3d3Ljk2NDM3NjU4Lnh5eiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTkxMDE5MDcyOTI3IiwgInBvcnQiOiA0NDMsICJwcyI6ICJb8J+HrfCfh7ogSFVdIFZNZXNzLXdzIHwgc3JjOm1haGFua2Vud2F5LWZyZWVkb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 vless://5d4a87fa-16f1-4b65-b217-225a31e36239@45.9.168.17:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu.convert-flow.net&fp=chrome&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&type=tcp&headerType=none#[🇭🇺 HU] VLESS-Reality | src:heliataromi-confighub-mixed
