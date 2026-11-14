@@ -2,6 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
+vless://1e697474-7836-47ed-aaca-b559efcbb298@eu90.cdn77.icu:20054?sni=eu64.cdn77.icu&fp=firefox&security=tls#[🇵🇰 PK] VLESS | src:peasoft-nomorewalls
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26736#[🇵🇰 PK] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26737#[🇵🇰 PK] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26738#[🇵🇰 PK] SS | src:lalatinahub-mineral
