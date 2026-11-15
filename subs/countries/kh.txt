@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://1e697474-7836-47ed-aaca-b559efcbb298@eu90.cdn77.icu:20042?sni=eu64.cdn77.icu&fp=firefox&security=tls#[🇰🇭 KH] VLESS | src:peasoft-nomorewalls
+vless://1e697474-7836-47ed-aaca-b559efcbb298@eu90.cdn77.icu:20042?sni=eu64.cdn77.icu&fp=firefox&security=tls#[🇰🇭 KH] VLESS | src:ermaozi-get-subscribe
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYjcyYWQ1NzAzNTgzNWM3@38.54.93.66:49696#[🇰🇭 KH] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MGJjYzA4NzRkMzljMzkx@38.54.93.205:11201#[🇰🇭 KH] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NjU0ZDk1N2M1ZjYxNjQw@38.54.93.107:11201#[🇰🇭 KH] SS | src:sub-07d2577deb
