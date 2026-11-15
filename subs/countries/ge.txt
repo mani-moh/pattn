@@ -2,9 +2,9 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://b0b355cb-a7f4-48ca-b613-b263ccaf87ee@89.125.175.54:8443?flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=raw&encryption=none#[✅] [🇬🇪 GE] VLESS-Reality | src:0xradikal-all | 116ms
-vless://052d73c9-1735-4008-b58c-e3a085dc2a37@89.125.175.55:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=uk-room05.filesnap.tech&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&sid=7da3ba09a037e956&flow=xtls-rprx-vision#[✅] [🇬🇪 GE] VLESS-Reality | src:0xradikal-all | 120ms
-vless://052d73c9-1735-4008-b58c-e3a085dc2a37@89.125.175.24:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=uk-room07.filesnap.tech&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&sid=dbef98744832b751&flow=xtls-rprx-vision#[✅] [🇬🇪 GE] VLESS-Reality | src:0xradikal-all | 122ms
+vless://052d73c9-1735-4008-b58c-e3a085dc2a37@89.125.175.24:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=uk-room07.filesnap.tech&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&sid=dbef98744832b751&flow=xtls-rprx-vision#[✅] [🇬🇪 GE] VLESS-Reality | src:0xradikal-all | 149ms
+vless://b0b355cb-a7f4-48ca-b613-b263ccaf87ee@89.125.175.54:8443?flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=raw&encryption=none#[✅] [🇬🇪 GE] VLESS-Reality | src:0xradikal-all | 149ms
+vless://052d73c9-1735-4008-b58c-e3a085dc2a37@89.125.175.55:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=uk-room05.filesnap.tech&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&sid=7da3ba09a037e956&flow=xtls-rprx-vision#[✅] [🇬🇪 GE] VLESS-Reality | src:0xradikal-all | 153ms
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@194.135.119.82:2053?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#[🇬🇪 GE] VLESS-ws | src:ermaozi-get-subscribe
 vless://9992be65-f201-44ca-a177-2ca95aaa7ad4@93.190.9.2:3090?security=&encryption=none&type=grpc&serviceName=vless#[🇬🇪 GE] VLESS-grpc | src:0xradikal-all
 vless://38628f72-783b-4605-8530-67cc8567bab5@130.78.25.14:47443?security=reality&encryption=none&pbk=MnW49sASUaQ1Sm8SbCWlU8eKfNR8x1O03YSZdj5vM3Y&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ge-3.waspguard.ru&sid=ae97223a8f799003#[🇬🇪 GE] VLESS-Reality | src:sub-660b258b53
