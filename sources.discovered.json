@@ -1101,6 +1101,95 @@
         "subscription"
       ],
       "enabled": true
+    },
+    {
+      "id": "sub-b39be53383",
+      "name": "Discovered Sub (https://sub.vlessfo.ru/vlessfo...)",
+      "url": "https://sub.vlessfo.ru/vlessforu/working_configs.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-idolvpn",
+      "name": "Telegram @idolvpn",
+      "url": "https://t.me/s/idolvpn",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-f6cc2c0692",
+      "name": "Discovered Sub (https://frogv2raybot.shortsfoo...)",
+      "url": "https://frogv2raybot.shortsfootiyt-d47.workers.dev/sub/11fd43a693a0f8e4d0c59b78fb457320a8e5d12a",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-frog_v2ray",
+      "name": "Telegram @frog_v2ray",
+      "url": "https://t.me/s/frog_v2ray",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-beshkan",
+      "name": "Telegram @beshkan",
+      "url": "https://t.me/s/beshkan",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-meliproxyy",
+      "name": "Telegram @meliproxyy",
+      "url": "https://t.me/s/meliproxyy",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-v2ray_official",
+      "name": "Telegram @v2ray_official",
+      "url": "https://t.me/s/v2ray_official",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }

@@ -2,7 +2,6 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-trojan://80d4cb87-ac70-e074-bc82-6313d2d1b539@www.pdnczone.com:2087?security=tls&sni=ayhanmansur-zedmeli.kdns.fr&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F78.157.42.100&type=ws&host=ayhanmansur-zedmeli.kdns.fr&path=%2FeyJqdW5rIjoiZXJaQklLRUh1R0UiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4IjowfQ%3D%3D#[🇦🇷 AR] Trojan-ws | src:igareck-vless-rus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#[🇦🇷 AR] SS | src:lalatinahub-mineral
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#[🇦🇷 AR] SS | src:sub-07d2577deb
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@190.103.176.32:989#[🇦🇷 AR] SS | src:sub-07d2577deb
