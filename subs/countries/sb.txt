@@ -2,6 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
+vless://3e06b1db-2efb-446e-ba2d-68850dfd2f9d@104.26.13.31:8080?sni=ip.sb&type=ws&host=bdfba-cool-tree-b580.v8fz4kbv.workers.dev&path=/#[🇸🇧 SB] VLESS-ws | src:ermaozi-get-subscribe
 vmess://eyJhZGQiOiAiaXAuc2IiLCAiYWlkIjogMCwgImhvc3QiOiAiaXAxLjE3ODkwMzQueHl6IiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJwb3J0IjogMjA4NiwgInBzIjogIlvwn4e48J+HpyBTQl0gVk1lc3Mtd3MgfCBzcmM6bGFsYXRpbmFodWItbWluZXJhbCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 vless://3e06b1db-2efb-446e-ba2d-68850dfd2f9d@104.26.13.31:8080?security=none&type=ws&path=%2F&host=bdfba-cool-tree-b580.v8fz4kbv.workers.dev&packetEncoding=xudp&sni=ip.sb&encryption=none#[🇸🇧 SB] VLESS-ws | src:heliataromi-confighub-mixed
 vless://3e06b1db-2efb-446e-ba2d-68850dfd2f9d@ip.sb:8080?security=none&type=ws&path=%2F&host=bdfba-cool-tree-b580.v8fz4kbv.workers.dev&packetEncoding=xudp&encryption=none#[🇸🇧 SB] VLESS-ws | src:heliataromi-confighub-mixed
