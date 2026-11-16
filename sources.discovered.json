@@ -1190,6 +1190,132 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "sub-ad01da7753",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-053092b161",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-netazadmeli1",
+      "name": "Telegram @netazadmeli1",
+      "url": "https://t.me/s/netazadmeli1",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-2a0e66e19b",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/top100.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-e1f0fade7d",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/fast/configs.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-tootffarangi",
+      "name": "Telegram @tootffarangi",
+      "url": "https://t.me/s/tootffarangi",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-tootffarangi2",
+      "name": "Telegram @tootffarangi2",
+      "url": "https://t.me/s/tootffarangi2",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-v2ray_confiig",
+      "name": "Telegram @v2ray_confiig",
+      "url": "https://t.me/s/v2ray_confiig",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-oneclickvpnkeys",
+      "name": "Telegram @oneclickvpnkeys",
+      "url": "https://t.me/s/oneclickvpnkeys",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-zakharproxy",
+      "name": "Telegram @zakharproxy",
+      "url": "https://t.me/s/zakharproxy",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }
