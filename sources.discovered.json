@@ -1316,6 +1316,122 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "tg-tradenets",
+      "name": "Telegram @tradenets",
+      "url": "https://t.me/s/tradenets",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-vpn_ceenter",
+      "name": "Telegram @vpn_ceenter",
+      "url": "https://t.me/s/vpn_ceenter",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-zirov2ray",
+      "name": "Telegram @zirov2ray",
+      "url": "https://t.me/s/zirov2ray",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-proxy_shadowsocks",
+      "name": "Telegram @proxy_shadowsocks",
+      "url": "https://t.me/s/proxy_shadowsocks",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-81e68e3467",
+      "name": "Discovered Sub (https://ps1.fimrel.ir:8000/sub...)",
+      "url": "https://ps1.fimrel.ir:8000/sub/djMsNDM0MiwxNzk0ODY4NDQ1.wswAmY5pfPB-8mTE843ksMwqNrmHYH3JP2OzMtTNoyE",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-wolf_vpn00",
+      "name": "Telegram @wolf_vpn00",
+      "url": "https://t.me/s/wolf_vpn00",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-iranshield",
+      "name": "Telegram @iranshield",
+      "url": "https://t.me/s/iranshield",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-father_vpn",
+      "name": "Telegram @father_vpn",
+      "url": "https://t.me/s/father_vpn",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-gozarnetir",
+      "name": "Telegram @gozarnetir",
+      "url": "https://t.me/s/gozarnetir",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }
