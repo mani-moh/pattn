@@ -2,13 +2,16 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@192.71.27.237:443/?type=ws&encryption=none&flow=&host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com#[🇮🇱 IL] VLESS-ws | src:ermaozi-get-subscribe
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=il1.gofizzin.com&pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&sid=dc1bf50b0e0a&fp=firefox&spx=/b4fcc6d25bda84e#[✅] [🇮🇱 IL] VLESS-Reality | src:0xradikal-all
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?security=reality&encryption=none&pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&headerType=none&fp=chrome&spx=/b4fcc6d25bda84e&type=tcp&flow=xtls-rprx-vision&sni=il1.gofizzin.com&sid=dc1bf50b0e0a#[✅] [🇮🇱 IL] VLESS-Reality | src:0xradikal-all
+vless://076b9961-51c7-407f-92b8-a8f2c6d42a7f@193.202.11.67:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=CnC08-EGzr6smaBZbQXW7y2mjH4uHcJly0ROcqtv0Gk&sid=09e501600e39ed57&sni=us-1.vpezid.net#[✅] [🇮🇱 IL] VLESS-Reality | src:luxxuria-speed-tested
 ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@83.229.73.120:50003#[🇮🇱 IL] SS | src:farid-karimi-mixed-iran
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#[🇮🇱 IL] SS | src:farid-karimi-mixed-iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzY0RqNjhmdjZ4a01nMm5wOVJnVw@212.199.61.55:8389#[🇮🇱 IL] SS | src:farid-karimi-mixed-iran
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl20.h1clayd.shop:443?flow=xtls-rprx-vision&host=8a2e72t.nl20.h1clayd.shop&insecure=1&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl20.h1clayd.shop&type=tcp&fp=firefox#[🇮🇱 IL] VLESS-Reality | src:igareck-vless-rus
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.148.85:443?encryption=none&security=reality&sni=5d0319t.nl7.h1clayd.click&fp=firefox&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&type=tcp&headerType=none&host=5d0319t.nl7.h1clayd.click#[🇮🇱 IL] VLESS-Reality | src:heliataromi-confighub-mixed
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@192.71.27.237:443/?type=ws&encryption=none&flow=&host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com#[🇮🇱 IL] VLESS-ws | src:heliataromi-confighub-mixed
+hy2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160/?insecure=1&hop_interval=10&sni=www.bing.com#[🇮🇱 IL] Hysteria2 | src:heliataromi-confighub-mixed
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=il1.gofizzin.com&fp=chrome&pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&sid=dc1bf50b0e0a&type=tcp&headerType=none&path=%2F#[🇮🇱 IL] VLESS-Reality | src:blueknight-sub
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?sni=il1.gofizzin.com&flow=xtls-rprx-vision&fp=firefox&security=tls#[🇮🇱 IL] VLESS | src:heliataromi-confighub-mixed
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11201#[🇮🇱 IL] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11202#[🇮🇱 IL] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11203#[🇮🇱 IL] SS | src:sub-07d2577deb
