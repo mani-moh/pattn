@@ -2,8 +2,8 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.201.227:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=m6US_Wo7oYwRvmXWu2_bMRST1FB_rVcPpW3TqZX5_xY&sni=191.217.201.227#[✅] [🇭🇷 HR] VLESS-Reality | src:luxxuria-speed-tested
-vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.201.227:443?sni=191.217.201.227&flow=xtls-rprx-vision&fp=firefox&security=tls#[🇭🇷 HR] VLESS | src:peasoft-nomorewalls
+vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.201.227:443?sni=191.217.201.227&flow=xtls-rprx-vision&fp=firefox&security=tls#[🇭🇷 HR] VLESS | src:ermaozi-get-subscribe
+vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.201.227:443?&security=reality&flow=xtls-rprx-vision&pbk=m6US_Wo7oYwRvmXWu2_bMRST1FB_rVcPpW3TqZX5_xY&fp=firefox&sni=191.217.201.227&type=tcp&headerType=none&host=191.217.201.227&path=%2F#[🇭🇷 HR] VLESS-Reality | src:ermaozi-get-subscribe
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#[🇭🇷 HR] VLESS-Reality | src:elf2017spring-configshub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCSHhEbjhaNjd6dWFvUXNqSHFTQU1RUXM4RHoxQ0dxSg@77.216.2.178:30#[🇭🇷 HR] SS | src:lalatinahub-mineral
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg@185.156.110.92:443#[🇭🇷 HR] SS | src:lalatinahub-mineral

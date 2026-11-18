@@ -4,7 +4,7 @@
 
 vless://bc0e699d-0bf4-4ba6-a85e-38ce123e187e@169.128.116.28:50973?security=reality&sni=www.sony.co.cr&fp=chrome&pbk=CcRKDlIH-36L0_3-ILgmy4kSoT64tB3YzTwar8pBI0Y&sid=65b9b019c31ece8f&spx=%2F9fdf859b0625014#[🇨🇷 CR] VLESS-Reality | src:matinghanbari-all
 vless://bc0e699d-0bf4-4ba6-a85e-38ce123e187e@169.128.116.28:50973?encryption=none&security=reality&sni=www.sony.co.cr&fp=chrome&pbk=CcRKDlIH-36L0_3-ILgmy4kSoT64tB3YzTwar8pBI0Y&sid=65b9b019c31ece8f&spx=%2F9fdf859b0625014&type=tcp&headerType=none#[🇨🇷 CR] VLESS-Reality | src:0xradikal-all
-vless://b2853d19-fada-44dc-8d44-967d1af122e0@190.93.244.166:2096?fp=chrome&host=wqa3miojjr8fyozhiui--su3-ucg1gdx.pages.dev&path=%2FeyJqdW5rIjoiWmFzVk5rd2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0%3D&security=tls&sni=wqa3miojjr8fyozhiui--su3-ucg1gdx.pages.dev&type=ws#[🇨🇷 CR] VLESS-ws | src:delta-kronecker-all
+vless://b2853d19-fada-44dc-8d44-967d1af122e0@190.93.244.166:2096?fp=chrome&host=wqa3miojjr8fyozhiui--su3-ucg1gdx.pages.dev&path=%2FeyJqdW5rIjoiWmFzVk5rd2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0%3D&security=tls&sni=wqa3miojjr8fyozhiui--su3-ucg1gdx.pages.dev&type=ws#[🇨🇷 CR] VLESS-ws | src:0xradikal-all
 trojan://NISHIKUITAN111@190.93.247.7:443/?type=tcp&security=tls&allowInsecure=1#[🇨🇷 CR] Trojan-tcp | src:0xradikal-all
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@190.93.246.16:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Bhost%3Dylnhh.us.ci#[🇨🇷 CR] SS | src:0xradikal-all
 trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#[🇨🇷 CR] Trojan-ws | src:0xradikal-all
