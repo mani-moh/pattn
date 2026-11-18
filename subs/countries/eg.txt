@@ -2,11 +2,12 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?flow=xtls-rprx-vision&security=reality&sni=eg1.gofizz.in&fp=firefox&pbk=tyklNbOfb-FctP-J1OQa1yUHPY9p4co70RyYuRe9nR8&sid=f68db13f&type=tcp&headerType=none&host=eg1.gofizz.in&path=%2f#[✅] [🇪🇬 EG] VLESS-Reality | src:0xradikal-all | 155ms
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?sni=eg1.gofizz.in&flow=xtls-rprx-vision&fp=firefox&security=tls#[🇪🇬 EG] VLESS | src:ermaozi-get-subscribe
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?security=reality&encryption=none&pbk=tyklNbOfb-FctP-J1OQa1yUHPY9p4co70RyYuRe9nR8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eg1.gofizz.in&sid=f68db13f#[🇪🇬 EG] VLESS-Reality | src:0xradikal-all
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?&security=reality&flow=xtls-rprx-vision&pbk=tyklNbOfb-FctP-J1OQa1yUHPY9p4co70RyYuRe9nR8&sid=f68db13f&fp=firefox&sni=eg1.gofizz.in&type=tcp&headerType=none&host=eg1.gofizz.in&path=%2F#[🇪🇬 EG] VLESS-Reality | src:0xradikal-all
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?allowInsecure=1&fp=chrome&sni=ekb.eg#[🇪🇬 EG] Trojan | src:0xradikal-all
 trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.59.90:443?allowInsecure=1&sni=38.54.59.90#[🇪🇬 EG] Trojan | src:0xradikal-all
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?security=reality&amp;encryption=none&amp;pbk=tyklNbOfb-FctP-J1OQa1yUHPY9p4co70RyYuRe9nR8&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eg1.gofizz.in&amp;sid=f68db13f#[🇪🇬 EG] VLESS-Reality | src:heliataromi-confighub-mixed
+ss://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?security=reality&amp;encryption=none&amp;pbk=tyklNbOfb-FctP-J1OQa1yUHPY9p4co70RyYuRe9nR8&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=eg1.gofizz.in&amp;sid=f68db13f#[🇪🇬 EG] SS-Reality | src:heliataromi-confighub-mixed
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.59.107:990#[🇪🇬 EG] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11201#[🇪🇬 EG] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11202#[🇪🇬 EG] SS | src:sub-07d2577deb
@@ -14,7 +15,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11203#[�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11204#[🇪🇬 EG] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11205#[🇪🇬 EG] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#[🇪🇬 EG] SS | src:lalatinahub-mineral
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?&security=reality&flow=xtls-rprx-vision&pbk=tyklNbOfb-FctP-J1OQa1yUHPY9p4co70RyYuRe9nR8&sid=f68db13f&fp=chrome&sni=eg1.gofizz.in&type=tcp&headerType=none&path=%2F#[🇪🇬 EG] VLESS-Reality | src:sub-757c8dc370
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@41.196.0.128:443?sni=eg1.gofizz.in&flow=xtls-rprx-vision&fp=firefox&security=tls#[🇪🇬 EG] VLESS | src:leon406-subcrawler-vless
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ekb.eg&type=tcp&headerType=none&path=%2F#[🇪🇬 EG] VLESS-tcp | src:leon406-subcrawler-vless
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?sni=ekb.eg&flow=xtls-rprx-vision&fp=firefox&security=tls#[🇪🇬 EG] VLESS | src:leon406-subcrawler-vless
 vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=%2Fpai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#[🇪🇬 EG] VLESS-ws | src:tg-filtershekan_channel

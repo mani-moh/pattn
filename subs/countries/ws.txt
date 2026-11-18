@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.99:443?encryption=none&security=tls&sni=PPAL03.wopaJO6948.WorKErs.dEv&type=ws&host=PPAL03.wopaJO6948.WorKErs.dEv&path=%2F2h9pwob102xqfyhg%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.103.250:80?type=ws&encryption=none&flow=&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.17.119.85:80?type=ws&encryption=none&flow=&host=aymng.bahareh.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.134.126:80?type=ws&encryption=none&flow=&host=abcd.taraneh.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.105.92:80?type=ws&encryption=none&flow=&host=dw.alibichareh.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
@@ -27,6 +26,7 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.139.99:80?type=ws&encryption
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.99.37:80?type=ws&encryption=none&flow=&host=barayeiran.nastaranh.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.133.134:80?type=ws&encryption=none&flow=&host=abcd.taraneh.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80?type=ws&encryption=none&flow=&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.103.250:80?type=ws&encryption=none&flow=&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.208.49:80?type=ws&encryption=none&flow=&host=sib.sibzamini.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.16.112.97:80?type=ws&encryption=none&flow=&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.153.2:2095?type=ws&encryption=none&flow=&host=xijinpingnmsl.s4ar.workers.dev&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
