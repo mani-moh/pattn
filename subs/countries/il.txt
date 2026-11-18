@@ -9,8 +9,8 @@ ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@83.229.73.120:50003#[🇮🇱 IL] SS | src:f
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#[🇮🇱 IL] SS | src:farid-karimi-mixed-iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzY0RqNjhmdjZ4a01nMm5wOVJnVw@212.199.61.55:8389#[🇮🇱 IL] SS | src:farid-karimi-mixed-iran
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?security=reality&encryption=none&pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&host=il1.gofizzin.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=il1.gofizzin.com&sid=dc1bf50b0e0a#[🇮🇱 IL] VLESS-Reality | src:0xradikal-all
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?security=reality&amp;encryption=none&amp;pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=il1.gofizzin.com&amp;sid=dc1bf50b0e0a#[🇮🇱 IL] VLESS-Reality | src:heliataromi-confighub-mixed
 ss://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?security=reality&amp;encryption=none&amp;pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=il1.gofizzin.com&amp;sid=dc1bf50b0e0a#[🇮🇱 IL] SS-Reality | src:heliataromi-confighub-mixed
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?security=reality&amp;encryption=none&amp;pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=il1.gofizzin.com&amp;sid=dc1bf50b0e0a#[🇮🇱 IL] VLESS-Reality | src:heliataromi-confighub-mixed
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11201#[🇮🇱 IL] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11202#[🇮🇱 IL] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11203#[🇮🇱 IL] SS | src:sub-07d2577deb

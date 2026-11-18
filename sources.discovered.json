@@ -1432,6 +1432,58 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "tg-hopevpn_help",
+      "name": "Telegram @hopevpn_help",
+      "url": "https://t.me/s/hopevpn_help",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-v2raybaaz",
+      "name": "Telegram @v2raybaaz",
+      "url": "https://t.me/s/v2raybaaz",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-vpnbaz",
+      "name": "Telegram @vpnbaz",
+      "url": "https://t.me/s/vpnbaz",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-anty_filter",
+      "name": "Telegram @anty_filter",
+      "url": "https://t.me/s/anty_filter",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }

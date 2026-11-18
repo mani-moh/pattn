@@ -3,8 +3,8 @@
 > Real-time ranking of auto-discovered proxy feeds, Telegram channels, and aggregators
 > *Updated automatically by PattN Autonomous Agent (powered by NVIDIA NIM Frontier AI: Kimi K2.6 / Mistral Large 4 / Nemotron)*
 
-**Last Sync:** `2026-11-17 11:48:30 UTC`  
-**Total Channels Scanned:** `806` | **Pending Queue:** `345` | **Active Discovered Feeds:** `79` | **Current Node Yield:** `12018`
+**Last Sync:** `2026-11-18 11:20:55 UTC`  
+**Total Channels Scanned:** `876` | **Pending Queue:** `281` | **Active Discovered Feeds:** `83` | **Current Node Yield:** `12161`
 
 ## 🏆 Top Discovered Channels & Subscription Feeds
 
@@ -33,19 +33,19 @@
 | 21 | `@v2ray_confiig` | **108** | 1 | [Open Feed](https://t.me/s/v2ray_confiig) | 🟢 Active |
 | 22 | `@xsfilterrnet` | **106** | 3 | [Open Feed](https://t.me/s/xsfilterrnet) | 🟢 Active |
 | 23 | `@v2ray1_ng` | **102** | 3 | [Open Feed](https://t.me/s/v2ray1_ng) | 🟢 Active |
-| 24 | `@v2rayngvpn` | **96** | 5 | [Open Feed](https://t.me/s/v2rayngvpn) | 🟢 Active |
-| 25 | `@shadowsocksm` | **94** | 5 | [Open Feed](https://t.me/s/shadowsocksm) | 🟢 Active |
-| 26 | `web:https://molido-sub.hidooch980.wo` | **91** | 2 | [Open Feed](https://molido-sub.hidooch980.workers.dev/sub/2) | 🟢 Active |
-| 27 | `web:https://molido-sub.hidooch980.wo` | **91** | 2 | [Open Feed](https://molido-sub.hidooch980.workers.dev/sub/3) | 🟢 Active |
-| 28 | `web:https://molido-sub.hidooch980.wo` | **91** | 2 | [Open Feed](https://molido-sub.hidooch980.workers.dev/sub/4) | 🟢 Active |
-| 29 | `web:https://molido-sub.hidooch980.wo` | **91** | 2 | [Open Feed](https://molido-sub.hidooch980.workers.dev/sub/5) | 🟢 Active |
-| 30 | `@vpnine1` | **82** | 2 | [Open Feed](https://t.me/s/vpnine1) | 🟢 Active |
+| 24 | `@shadowsocksm` | **94** | 5 | [Open Feed](https://t.me/s/shadowsocksm) | 🟢 Active |
+| 25 | `web:https://molido-sub.hidooch980.wo` | **91** | 2 | [Open Feed](https://molido-sub.hidooch980.workers.dev/sub/2) | 🟢 Active |
+| 26 | `web:https://molido-sub.hidooch980.wo` | **91** | 2 | [Open Feed](https://molido-sub.hidooch980.workers.dev/sub/3) | 🟢 Active |
+| 27 | `web:https://molido-sub.hidooch980.wo` | **91** | 2 | [Open Feed](https://molido-sub.hidooch980.workers.dev/sub/4) | 🟢 Active |
+| 28 | `web:https://molido-sub.hidooch980.wo` | **91** | 2 | [Open Feed](https://molido-sub.hidooch980.workers.dev/sub/5) | 🟢 Active |
+| 29 | `@vpnine1` | **82** | 2 | [Open Feed](https://t.me/s/vpnine1) | 🟢 Active |
+| 30 | `gh:mehrtat/vless-collector` | **78** | 1 | [Open Feed](https://raw.githubusercontent.com/mehrtat/vless-collector/main/sub.txt) | 🟢 Active |
 
 ## 🧭 Discovery Queue & Exploration Horizon
 
-- Channels waiting for deep-inspection in next cycle: **345**
+- Channels waiting for deep-inspection in next cycle: **281**
 - Unique query patterns synthesized: **115**
-- NVIDIA Nemotron API calls (last run / cumulative): **482** / **2572**
+- NVIDIA Nemotron API calls (last run / cumulative): **297** / **2869**
 
 ---
 *Automated intelligence powered by PattN Pipeline*
