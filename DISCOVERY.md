@@ -3,8 +3,8 @@
 > Real-time ranking of auto-discovered proxy feeds, Telegram channels, and aggregators
 > *Updated automatically by PattN Autonomous Agent (powered by NVIDIA NIM Frontier AI: Kimi K2.6 / Mistral Large 4 / Nemotron)*
 
-**Last Sync:** `2026-11-18 11:20:55 UTC`  
-**Total Channels Scanned:** `876` | **Pending Queue:** `281` | **Active Discovered Feeds:** `83` | **Current Node Yield:** `12161`
+**Last Sync:** `2026-11-19 11:28:17 UTC`  
+**Total Channels Scanned:** `936` | **Pending Queue:** `159` | **Active Discovered Feeds:** `85` | **Current Node Yield:** `12187`
 
 ## 🏆 Top Discovered Channels & Subscription Feeds
 
@@ -43,9 +43,9 @@
 
 ## 🧭 Discovery Queue & Exploration Horizon
 
-- Channels waiting for deep-inspection in next cycle: **281**
+- Channels waiting for deep-inspection in next cycle: **159**
 - Unique query patterns synthesized: **115**
-- NVIDIA Nemotron API calls (last run / cumulative): **297** / **2869**
+- NVIDIA Nemotron API calls (last run / cumulative): **283** / **3152**
 
 ---
 *Automated intelligence powered by PattN Pipeline*

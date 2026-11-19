@@ -1484,6 +1484,32 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "tg-connectbash",
+      "name": "Telegram @connectbash",
+      "url": "https://t.me/s/connectbash",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-v2box",
+      "name": "Telegram @v2box",
+      "url": "https://t.me/s/v2box",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }

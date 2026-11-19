@@ -2,12 +2,15 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#[✅] [🇿🇦 ZA] SS | src:0xradikal-all | 271ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#[✅] [🇿🇦 ZA] SS | src:0xradikal-all | 255ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?allowInsecure=1&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com#[✅] [🇿🇦 ZA] Trojan | src:0xradikal-all | 523ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com&type=tcp&headerType=none#[✅] [🇿🇦 ZA] Trojan-tcp | src:0xradikal-all | 524ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#[✅] [🇿🇦 ZA] SS | src:0xradikal-all
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFFsdzBEWUhwNlFRam93@40.123.240.235:443#[✅] [🇿🇦 ZA] SS | src:0xradikal-all
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com&type=tcp&headerType=none#[✅] [🇿🇦 ZA] Trojan-tcp | src:0xradikal-all
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?allowInsecure=1&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com#[✅] [🇿🇦 ZA] Trojan | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNOFoySTduR2pobXdoeTJt@40.123.254.236:443?#[🇿🇦 ZA] SS | src:0xradikal-all
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFFsdzBEWUhwNlFRam93@40.123.240.235:443?#[🇿🇦 ZA] SS | src:0xradikal-all
+vmess://eyJhZGQiOiAiemEtYS16enkuZ2xueWhsZ2MuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1NTgzYWY1MC1mNDY0LTRkZjYtZTJlZi0zNDU5MjMxMWU1YzYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYWJvdXQvNzY3OCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJb8J+Hv/Cfh6YgWkFdIFZNZXNzLXdzIHwgc3JjOjB4cmFkaWthbC1hbGwiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+vmess://eyJhZGQiOiAiMTQwLjk5LjE1Ny44NiIsICJhaWQiOiA2NCwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8xNjg5OTM1MjQzMDI3IiwgInBvcnQiOiA0NDMsICJwcyI6ICJb8J+Hv/Cfh6YgWkFdIFZNZXNzLXdzIHwgc3JjOm1hdGluZ2hhbmJhcmktYWxsIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiW/Cfh7/wn4emIFpBXSBWTWVzcy13cyB8IHNyYzoweHJhZGlrYWwtYWxsIiwgImFkZCI6ICJ6YS1hLXp6eS5nbG55aGxnYy5jb20iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNTU4M2FmNTAtZjQ2NC00ZGY2LWUyZWYtMzQ1OTIzMTFlNWM2IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ6YS1hLXp6eS5nbG55aGxnYy5jb20iLCAicGF0aCI6ICIvYWJvdXQvNzY3OCIsICJob3N0IjogInphLWEtenp5LmdsbnlobGdjLmNvbSJ9
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@102.165.47.134:47121#[🇿🇦 ZA] SS | src:farid-karimi-mixed-iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTEdWcEs5bnBLYUZxQkxIY251OQ@102.165.20.38:8389#[🇿🇦 ZA] SS | src:farid-karimi-mixed-iran
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#[🇿🇦 ZA] Trojan-tcp | src:0xradikal-all
@@ -25,9 +28,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYmt5ckt2T3RmU2QyeFFi@20.164.220.189:443#[�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.38.168.58:990#[🇿🇦 ZA] SS | src:sub-07d2577deb
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@185.230.230.18:19999#[🇿🇦 ZA] SS | src:sub-07d2577deb
 vmess://eyJhZGQiOiAiMTYwLjExNS4xOTMuOTkiLCAidiI6ICIyIiwgInBvcnQiOiA2MDIyMiwgImlkIjogIjg0MTM0ZDkwLWU0ZmUtNGE4Ni1jOGQ2LTRkN2JlZGIzYzMzMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3MiLCAidGxzIjogIiIsICJwcyI6ICJb8J+Hv/Cfh6YgWkFdIFZNZXNzLXdzIHwgc3JjOjB4cmFkaWthbC1hbGwifQ==
-vmess://eyJhZGQiOiAiemEtYS16enkuZ2xueWhsZ2MuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1NTgzYWY1MC1mNDY0LTRkZjYtZTJlZi0zNDU5MjMxMWU1YzYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYWJvdXQvNzY3OCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJb8J+Hv/Cfh6YgWkFdIFZNZXNzLXdzIHwgc3JjOjB4cmFkaWthbC1hbGwiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW/Cfh7/wn4emIFpBXSBWTWVzcy13cyB8IHNyYzoweHJhZGlrYWwtYWxsIiwgImFkZCI6ICJ6YS1hLXp6eS5nbG55aGxnYy5jb20iLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICItLS0iLCAiaWQiOiAiNTU4M2FmNTAtZjQ2NC00ZGY2LWUyZWYtMzQ1OTIzMTFlNWM2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hYm91dC83Njc4IiwgImhvc3QiOiAiemEtYS16enkuZ2xueWhsZ2MuY29tIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiW/Cfh7/wn4emIFpBXSBWTWVzcy13cyB8IHNyYzoweHJhZGlrYWwtYWxsIiwgImFkZCI6ICJ6YS1hLXp6eS5nbG55aGxnYy5jb20iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNTU4M2FmNTAtZjQ2NC00ZGY2LWUyZWYtMzQ1OTIzMTFlNWM2IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ6YS1hLXp6eS5nbG55aGxnYy5jb20iLCAicGF0aCI6ICIvYWJvdXQvNzY3OCIsICJob3N0IjogInphLWEtenp5LmdsbnlobGdjLmNvbSJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiW/Cfh7/wn4emIFpBXSBWTWVzcy13cyB8IHNyYzoweHJhZGlrYWwtYWxsIiwgImFkZCI6ICJ6YS1hLXp6eS5nbG55aGxnYy5jb20iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNTU4M2FmNTAtZjQ2NC00ZGY2LWUyZWYtMzQ1OTIzMTFlNWM2IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgImFscG4iOiAiIiwgInNuaSI6ICJ6YS1hLXp6eS5nbG55aGxnYy5jb20iLCAicGF0aCI6ICIvYWJvdXQvNzY3OCJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R20xc2RDU1JXQjQ2Q3JP@20.164.45.116:443#[🇿🇦 ZA] SS | src:lalatinahub-mineral
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443/?type=tcp&security=tls&sni=icecream.955850.xyz#[🇿🇦 ZA] Trojan-tcp | src:lalatinahub-mineral
