@@ -2,30 +2,28 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#[✅] [🇿🇦 ZA] SS | src:0xradikal-all | 246ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com&type=tcp&headerType=none#[✅] [🇿🇦 ZA] Trojan-tcp | src:0xradikal-all | 483ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com&type=tcp&headerType=none&path=/#[✅] [🇿🇦 ZA] Trojan-tcp | src:0xradikal-all | 486ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?allowInsecure=1&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com#[✅] [🇿🇦 ZA] Trojan | src:0xradikal-all | 497ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#[✅] [🇿🇦 ZA] SS | src:0xradikal-all | 218ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com&type=tcp&headerType=none#[✅] [🇿🇦 ZA] Trojan-tcp | src:0xradikal-all | 448ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#[✅] [🇿🇦 ZA] SS | src:0xradikal-all
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@102.165.47.134:47121#[🇿🇦 ZA] SS | src:farid-karimi-mixed-iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTEdWcEs5bnBLYUZxQkxIY251OQ@102.165.20.38:8389#[🇿🇦 ZA] SS | src:farid-karimi-mixed-iran
-vmess://eyJhZGQiOiAiMTYwLjExNS4xOTMuOTkiLCAidiI6ICIyIiwgInBvcnQiOiA2MDIyMiwgImlkIjogIjg0MTM0ZDkwLWU0ZmUtNGE4Ni1jOGQ2LTRkN2JlZGIzYzMzMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3MiLCAidGxzIjogIiIsICJwcyI6ICJb8J+Hv/Cfh6YgWkFdIFZNZXNzLXdzIHwgc3JjOjB4cmFkaWthbC1hbGwifQ==
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?allowInsecure=1&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com#[✅] [🇿🇦 ZA] Trojan | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNOFoySTduR2pobXdoeTJt@40.123.254.236:443?#[🇿🇦 ZA] SS | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFFsdzBEWUhwNlFRam93@40.123.240.235:443?#[🇿🇦 ZA] SS | src:0xradikal-all
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSnRDZmpQSUhuTEN6RGlh@20.164.205.35:443#[🇿🇦 ZA] SS | src:0xradikal-all
+ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@102.165.47.134:47121#[🇿🇦 ZA] SS | src:farid-karimi-mixed-iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTEdWcEs5bnBLYUZxQkxIY251OQ@102.165.20.38:8389#[🇿🇦 ZA] SS | src:farid-karimi-mixed-iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZHJTUVdhOUN3VUFWZHQz@4.168.233.69:443#[🇿🇦 ZA] SS | src:0xradikal-all
+vmess://eyJhZGQiOiAiMTYwLjExNS4xOTMuOTkiLCAidiI6ICIyIiwgInBvcnQiOiA2MDIyMiwgImlkIjogIjg0MTM0ZDkwLWU0ZmUtNGE4Ni1jOGQ2LTRkN2JlZGIzYzMzMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3MiLCAidGxzIjogIiIsICJwcyI6ICJb8J+Hv/Cfh6YgWkFdIFZNZXNzLXdzIHwgc3JjOjB4cmFkaWthbC1hbGwifQ==
+vmess://eyJhZGQiOiAiMTI5LjE1MS4xNjQuMTUyIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJlMzBmODU4OC0yNTU1LTQ4YjgtYzM1NC1jOGU2M2Y1NzIzMmQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNTU2MDAsICJwcyI6ICJb8J+Hv/Cfh6YgWkFdIFZNZXNzLXdzIHwgc3JjOm1hdGluZ2hhbmJhcmktYWxsIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#[🇿🇦 ZA] Trojan-tcp | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRHNTME9nbFBzZlV5VFp6@102.133.161.245:443#[🇿🇦 ZA] SS | src:0xradikal-all
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWGd0a2JSb2cxTVJON0gx@20.87.210.166:443#[🇿🇦 ZA] SS | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#[🇿🇦 ZA] SS | src:0xradikal-all
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYmt5ckt2T3RmU2QyeFFi@20.164.220.189:443#[🇿🇦 ZA] SS | src:0xradikal-all
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#[🇿🇦 ZA] SS | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SklOaEVybENYQnB5UDk1@20.164.204.82:443#[🇿🇦 ZA] SS | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbWJNc3REampCTnR4RmMw@20.164.217.73:443#[🇿🇦 ZA] SS | src:0xradikal-all
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#[🇿🇦 ZA] SS | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTQnc1YjZFOW5vSG9sQmRB@4.168.234.190:443#[🇿🇦 ZA] SS | src:0xradikal-all
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRjJxb01Hcm1WWVFUajJQ@40.123.240.228:443#[🇿🇦 ZA] SS | src:0xradikal-all
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYmt5ckt2T3RmU2QyeFFi@20.164.220.189:443#[🇿🇦 ZA] SS | src:0xradikal-all
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqclozTVpsT2l1ZThZanJk@102.133.161.245:443#[🇿🇦 ZA] SS | src:0xradikal-all
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#[🇿🇦 ZA] Trojan-tcp | src:0xradikal-all
-vless://d890b69b-049a-4a3f-b429-eacec51644d6@160.123.255.172:443?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2F%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A4%2C%22maxConcurrency%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&fp=firefox&host=mama147.baklajann.ru&mode=auto&path=%2F&security=tls&sni=mama147.baklajann.ru&type=xhttp#[🇿🇦 ZA] VLESS-xhttp | src:heliataromi-confighub-mixed
-vless://cc99c57d-6c93-4031-9153-73f510636533@160.123.255.172:443?security=tls&type=xhttp&path=%2F&host=mama147.baklajann.ru&sni=mama147.baklajann.ru&fp=chrome&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A%224%22%2C%22maxConcurrency%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&encryption=none#[🇿🇦 ZA] VLESS-xhttp | src:heliataromi-confighub-mixed
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWGd0a2JSb2cxTVJON0gx@20.87.210.166:443#[🇿🇦 ZA] SS | src:0xradikal-all
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRjJxb01Hcm1WWVFUajJQ@40.123.240.228:443?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM#[🇿🇦 ZA] SS | src:0xradikal-all
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSnRDZmpQSUhuTEN6RGlh@20.164.205.35:443#[🇿🇦 ZA] SS | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.38.168.58:990#[🇿🇦 ZA] SS | src:sub-07d2577deb
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@185.230.230.18:19999#[🇿🇦 ZA] SS | src:sub-07d2577deb
 vmess://eyJhZGQiOiAiemEtYS16enkuZ2xueWhsZ2MuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1NTgzYWY1MC1mNDY0LTRkZjYtZTJlZi0zNDU5MjMxMWU1YzYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYWJvdXQvNzY3OCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJb8J+Hv/Cfh6YgWkFdIFZNZXNzLXdzIHwgc3JjOjB4cmFkaWthbC1hbGwiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
@@ -36,4 +34,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R20xc2RDU1JXQjQ2Q3JP@20.164.45.116:443#[�
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443/?type=tcp&security=tls&sni=icecream.955850.xyz#[🇿🇦 ZA] Trojan-tcp | src:lalatinahub-mineral
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443/?type=tcp&security=tls&sni=38.54.64.247&allowInsecure=1&fp=chrome#[🇿🇦 ZA] Trojan-tcp | src:lalatinahub-mineral
 vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&fp=chrome&security=reality&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&sid=8d17b7ebab7b99d7#[🇿🇦 ZA] VLESS-Reality | src:lalatinahub-mineral
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls#[🇿🇦 ZA] Trojan | src:sub-6fa360c939
