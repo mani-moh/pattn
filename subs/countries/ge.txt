@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
 vless://052d73c9-1735-4008-b58c-e3a085dc2a37@89.125.175.55:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp#[🇬🇪 GE] VLESS-Reality | src:0xradikal-all
-vless://052d73c9-1735-4008-b58c-e3a085dc2a37@89.125.175.24:8443?security=reality&type=tcp&sni=uk-room07.filesnap.tech&flow=xtls-rprx-vision&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&sid=dbef98744832b751#[🇬🇪 GE] VLESS-Reality | src:0xradikal-all
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.135.119.135:443?security=reality&encryption=none&pbk=fVo5hYUD3VkxEetcXSMVWp7hjvz4YrKLNHDhGhn-d3M&host=ge1.gofizzin.com/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ge1.gofizzin.com&sid=0640a12b#[🇬🇪 GE] VLESS-Reality | src:0xradikal-all
 vless://9992be65-f201-44ca-a177-2ca95aaa7ad4@93.190.9.2:3090?security=&encryption=none&type=grpc&serviceName=vless#[🇬🇪 GE] VLESS-grpc | src:0xradikal-all
 vless://c8351e49-1f35-4170-b1df-efc7e7b0941f@89.125.175.141:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp#[🇬🇪 GE] VLESS-Reality | src:0xradikal-all
