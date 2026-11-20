@@ -3,8 +3,8 @@
 > Real-time ranking of auto-discovered proxy feeds, Telegram channels, and aggregators
 > *Updated automatically by PattN Autonomous Agent (powered by NVIDIA NIM Frontier AI: Kimi K2.6 / Mistral Large 4 / Nemotron)*
 
-**Last Sync:** `2026-11-19 11:28:17 UTC`  
-**Total Channels Scanned:** `936` | **Pending Queue:** `159` | **Active Discovered Feeds:** `85` | **Current Node Yield:** `12187`
+**Last Sync:** `2026-11-20 11:16:42 UTC`  
+**Total Channels Scanned:** `978` | **Pending Queue:** `100` | **Active Discovered Feeds:** `84` | **Current Node Yield:** `12460`
 
 ## 🏆 Top Discovered Channels & Subscription Feeds
 
@@ -16,22 +16,22 @@
 | 4 | `@azadnet` | **842** | 2 | [Open Feed](https://t.me/s/azadnet) | 🟢 Active |
 | 5 | `web:https://raw.githubusercontent.co` | **510** | 3 | [Open Feed](https://raw.githubusercontent.com/miraali1372/mirsub/main/subscription.txt) | 🟢 Active |
 | 6 | `gh:cyrusalbert/ArashOnline` | **470** | 4 | [Open Feed](https://raw.githubusercontent.com/cyrusalbert/ArashOnline/main/configs.txt) | 🟢 Active |
-| 7 | `web:https://raw.githubusercontent.co` | **371** | 3 | [Open Feed](https://raw.githubusercontent.com/Ashollii/SubHarvest/main/output/sub.txt) | 🟢 Active |
-| 8 | `web:https://raw.githubusercontent.co` | **371** | 3 | [Open Feed](https://raw.githubusercontent.com/Ashollii/SubHarvest/main/output/sub.b64.txt) | 🟢 Active |
-| 9 | `web:https://raw.githubusercontent.co` | **371** | 3 | [Open Feed](https://raw.githubusercontent.com/Ashollii/SubHarvest/main/output/configs.txt) | 🟢 Active |
-| 10 | `@free2config` | **249** | 3 | [Open Feed](https://t.me/s/free2config) | 🟢 Active |
-| 11 | `@v2ray_official` | **245** | 1 | [Open Feed](https://t.me/s/v2ray_official) | 🟢 Active |
-| 12 | `gh:0xAKIRAVX/DNC-VPN` | **243** | 1 | [Open Feed](https://raw.githubusercontent.com/0xAKIRAVX/DNC-VPN/main/sub.txt) | 🟢 Active |
-| 13 | `@frog_v2ray` | **198** | 1 | [Open Feed](https://t.me/s/frog_v2ray) | 🟢 Active |
-| 14 | `web:https://molido-sub.hidooch980.wo` | **182** | 2 | [Open Feed](https://molido-sub.hidooch980.workers.dev/sub/1) | 🟢 Active |
-| 15 | `@meliproxyy` | **150** | 1 | [Open Feed](https://t.me/s/meliproxyy) | 🟢 Active |
-| 16 | `@tootffarangi2` | **142** | 1 | [Open Feed](https://t.me/s/tootffarangi2) | 🟢 Active |
-| 17 | `@v2cnf` | **132** | 3 | [Open Feed](https://t.me/s/v2cnf) | 🟢 Active |
-| 18 | `@father_vpn` | **118** | 1 | [Open Feed](https://t.me/s/father_vpn) | 🟢 Active |
-| 19 | `@idolvpn` | **113** | 1 | [Open Feed](https://t.me/s/idolvpn) | 🟢 Active |
-| 20 | `@oneclickvpnkeys` | **113** | 1 | [Open Feed](https://t.me/s/oneclickvpnkeys) | 🟢 Active |
-| 21 | `@v2ray_confiig` | **108** | 1 | [Open Feed](https://t.me/s/v2ray_confiig) | 🟢 Active |
-| 22 | `@xsfilterrnet` | **106** | 3 | [Open Feed](https://t.me/s/xsfilterrnet) | 🟢 Active |
+| 7 | `@xsfilterrnet` | **389** | 4 | [Open Feed](https://t.me/s/xsfilterrnet) | 🟢 Active |
+| 8 | `web:https://raw.githubusercontent.co` | **371** | 3 | [Open Feed](https://raw.githubusercontent.com/Ashollii/SubHarvest/main/output/sub.txt) | 🟢 Active |
+| 9 | `web:https://raw.githubusercontent.co` | **371** | 3 | [Open Feed](https://raw.githubusercontent.com/Ashollii/SubHarvest/main/output/sub.b64.txt) | 🟢 Active |
+| 10 | `web:https://raw.githubusercontent.co` | **371** | 3 | [Open Feed](https://raw.githubusercontent.com/Ashollii/SubHarvest/main/output/configs.txt) | 🟢 Active |
+| 11 | `@free2config` | **249** | 3 | [Open Feed](https://t.me/s/free2config) | 🟢 Active |
+| 12 | `@v2ray_official` | **245** | 1 | [Open Feed](https://t.me/s/v2ray_official) | 🟢 Active |
+| 13 | `gh:0xAKIRAVX/DNC-VPN` | **243** | 1 | [Open Feed](https://raw.githubusercontent.com/0xAKIRAVX/DNC-VPN/main/sub.txt) | 🟢 Active |
+| 14 | `@frog_v2ray` | **198** | 1 | [Open Feed](https://t.me/s/frog_v2ray) | 🟢 Active |
+| 15 | `web:https://molido-sub.hidooch980.wo` | **182** | 2 | [Open Feed](https://molido-sub.hidooch980.workers.dev/sub/1) | 🟢 Active |
+| 16 | `@meliproxyy` | **150** | 1 | [Open Feed](https://t.me/s/meliproxyy) | 🟢 Active |
+| 17 | `@tootffarangi2` | **142** | 1 | [Open Feed](https://t.me/s/tootffarangi2) | 🟢 Active |
+| 18 | `@v2cnf` | **132** | 3 | [Open Feed](https://t.me/s/v2cnf) | 🟢 Active |
+| 19 | `@father_vpn` | **118** | 1 | [Open Feed](https://t.me/s/father_vpn) | 🟢 Active |
+| 20 | `@idolvpn` | **113** | 1 | [Open Feed](https://t.me/s/idolvpn) | 🟢 Active |
+| 21 | `@oneclickvpnkeys` | **113** | 1 | [Open Feed](https://t.me/s/oneclickvpnkeys) | 🟢 Active |
+| 22 | `@v2ray_confiig` | **108** | 1 | [Open Feed](https://t.me/s/v2ray_confiig) | 🟢 Active |
 | 23 | `@v2ray1_ng` | **102** | 3 | [Open Feed](https://t.me/s/v2ray1_ng) | 🟢 Active |
 | 24 | `@shadowsocksm` | **94** | 5 | [Open Feed](https://t.me/s/shadowsocksm) | 🟢 Active |
 | 25 | `web:https://molido-sub.hidooch980.wo` | **91** | 2 | [Open Feed](https://molido-sub.hidooch980.workers.dev/sub/2) | 🟢 Active |
@@ -43,9 +43,9 @@
 
 ## 🧭 Discovery Queue & Exploration Horizon
 
-- Channels waiting for deep-inspection in next cycle: **159**
-- Unique query patterns synthesized: **115**
-- NVIDIA Nemotron API calls (last run / cumulative): **283** / **3152**
+- Channels waiting for deep-inspection in next cycle: **100**
+- Unique query patterns synthesized: **122**
+- NVIDIA Nemotron API calls (last run / cumulative): **249** / **3401**
 
 ---
 *Automated intelligence powered by PattN Pipeline*

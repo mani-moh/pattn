@@ -1510,6 +1510,18 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "sub-6b47c6b455",
+      "name": "Discovered Sub (https://github.com/Delta-Krone...)",
+      "url": "https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/batches/v2ray/batch_001.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
     }
   ]
 }
