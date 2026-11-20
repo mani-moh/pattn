@@ -11,6 +11,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11203#[�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11204#[🇪🇬 EG] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11205#[🇪🇬 EG] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#[🇪🇬 EG] SS | src:lalatinahub-mineral
+vmess://eyJhZGQiOiAiMTkyLjc0LjIzNi4xNDgiLCAiYWlkIjogIjY0IiwgImhvc3QiOiAid3d3LjkxMzM0NTY1Lnh5eiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTczMzQ3Nzc4MzcwNSIsICJwb3J0IjogIjMwMDA0IiwgInBzIjogIlvwn4eq8J+HrCBFR10gVk1lc3Mtd3MgfCBzcmM6c29saXNwaXJpdC1hbGwiLCAic2N5IjogImF1dG8iLCAic25pIjogImVrYi5lZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ekb.eg&type=tcp&headerType=none&path=%2F#[🇪🇬 EG] VLESS-tcp | src:leon406-subcrawler-vless
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?sni=ekb.eg&flow=xtls-rprx-vision&fp=firefox&security=tls#[🇪🇬 EG] VLESS | src:leon406-subcrawler-vless
 vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=%2Fpai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#[🇪🇬 EG] VLESS-ws | src:tg-filtershekan_channel
