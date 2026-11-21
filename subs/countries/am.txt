@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://4bec3709-0954-4173-ae59-3dee6cb8b961@91.192.158.251:2066?flow=xtls-rprx-vision&type=raw&security=reality&sni=google.com&pbk=84GM9QUTdTfTrhR-8loDOu7VA0LFW8X02vSvBQdsLAg&sid=1b2a3f&fp=firefox#[✅] [🇦🇲 AM] VLESS-Reality | src:luxxuria-speed-tested | 115ms
+vless://a9ff24d3-f308-4e72-acb9-a76062583837@82.202.142.227:23444?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a&sni=fontanka.ru#[✅] [🇦🇲 AM] VLESS-Reality | src:luxxuria-speed-tested | 124ms
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=armwwww.appleseraj.ir&sni=armwwww.appleseraj.ir&fp=chrome#[🇦🇲 AM] VLESS-ws | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZHBNNFJPdm9MdGF5aTdOTjlESUlk@194.156.103.148:443#[🇦🇲 AM] SS | src:sub-07d2577deb
 vless://636d3fe4-eb1f-49ee-9f70-2f4ec935015a@am.speeditest.ir:81?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇦🇲 AM] VLESS-tcp | src:elf2017spring-configshub
