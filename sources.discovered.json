@@ -1522,6 +1522,19 @@
         "subscription"
       ],
       "enabled": true
+    },
+    {
+      "id": "tg-unblocked_ir",
+      "name": "Telegram @unblocked_ir",
+      "url": "https://t.me/s/unblocked_ir",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
 vless://9be9e1e4-d1fc-4423-b22d-cd07a4381acb@131.255.6.88:443?sni=cj1-e06.pages.dev&type=ws&host=cj1-e06.pages.dev&path=/?ed=2560fp=random&security=tls#[🇦🇷 AR] VLESS-ws | src:ermaozi-get-subscribe
+vless://49e72868-abfd-4557-b474-6777853a9c8d@ip13.shabkhosh.sbs:443?path=/&security=tls&encryption=none&insecure=0&host=wallwebb33p08.wallwebvycxcl.workers.dev&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=wallwebb33p08.wallwebvycxcl.workers.dev#[🇦🇷 AR] VLESS-ws | src:igareck-vless-rus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#[🇦🇷 AR] SS | src:lalatinahub-mineral
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#[🇦🇷 AR] SS | src:sub-07d2577deb
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@190.103.176.32:989#[🇦🇷 AR] SS | src:sub-07d2577deb
