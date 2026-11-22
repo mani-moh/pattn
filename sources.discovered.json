@@ -1535,6 +1535,44 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "sub-b5d622bc9b",
+      "name": "Discovered Sub (https://sub.fasplay.site/sub/d...)",
+      "url": "https://sub.fasplay.site/sub/djMsNjI0NjgsMTc5NTExODU1MQ.-pYFZr7gkNzbPhWwRZLDsgZLXp3E1Dp9wwglFZheWcI",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-iproxyland",
+      "name": "Telegram @iproxyland",
+      "url": "https://t.me/s/iproxyland",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-vpnmaan",
+      "name": "Telegram @vpnmaan",
+      "url": "https://t.me/s/vpnmaan",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }
