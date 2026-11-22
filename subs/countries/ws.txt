@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.105.92:80?type=ws&encryption=none&flow=&host=dw.alibichareh.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.99:443?encryption=none&security=tls&sni=PPAL03.wopaJO6948.WorKErs.dEv&type=ws&host=PPAL03.wopaJO6948.WorKErs.dEv&path=%2F2h9pwob102xqfyhg%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.99.37:80?type=ws&encryption=none&flow=&host=barayeiran.nastaranh.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.12.51:2087?type=ws&encryption=none&flow=&host=a.xiazitong.zone.id&path=%2F%3Fed%3D2560&security=tls&sni=a.xiazitong.zone.id&fp=randomized#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.133.134:80?type=ws&encryption=none&flow=&host=abcd.taraneh.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
@@ -29,8 +29,8 @@ vless://7b5ea382-cbc6-4169-9f88-8200ca80c31a@104.24.135.129:2087?type=ws&encrypt
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.109.107:80?type=ws&encryption=none&flow=&host=coco.mahmoodchitooz.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.24.60.135:80?type=ws&encryption=none&flow=&host=agolna.mahsaamini.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://07a3df8f-2a2c-42f8-ad92-65889d90f3bf@104.21.25.95:443?type=ws&encryption=none&flow=&host=rrrfgt6.890604.filegear-sg.me&path=%2F5UW2C42lpZ7Dj4VDwVOkZfoq&security=tls&sni=rrRFgt6.890604.fiLeGEAR-Sg.ME&alpn=http%2F1.1&fp=chrome#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
+vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.105.92:80?type=ws&encryption=none&flow=&host=dw.alibichareh.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.139.99:80?type=ws&encryption=none&flow=&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.99:443?type=ws&encryption=none&flow=&host=PPAL03.wopaJO6948.WorKErs.dEv&path=%2F2h9pwob102xqfyhg%3Fed%3D2560&security=tls&sni=PPAL03.wopaJO6948.WorKErs.dEv#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@172.67.177.223:80/?type=ws&encryption=none&flow=&host=lot.sosant.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.6.169:80/?type=ws&encryption=none&flow=&host=coco.mahmoodchitooz.dpdns.org&path=%2F%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80/?type=ws&encryption=none&flow=&host=barayeiran.nastaranh.dpdns.org&path=%2FBaRAyeIran%3Fed%3D2560#[🇼🇸 WS] VLESS-ws | src:lalatinahub-mineral
