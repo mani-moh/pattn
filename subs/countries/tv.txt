@@ -2,9 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@leviko-de2799.shopingggg.ir:8443?security=reality&encryption=none&pbk=wgyw3OxZw4HEzedNdY_eHdcVkrtT7GEeZSHfzcZ8iDo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=168c15efac9df5fd#[🇹🇻 TV] VLESS-Reality | src:0xradikal-all
-vless://2b81c772-78c2-49d7-ac3f-537b654bc53e@201.58.187.198:443?type=grpc&security=reality&fp=edge&pbk=KQASJC-erEvv8cgBbvJRMfHq0Z0TApsQUNtdSwl0YQY&sid=8f3e9c4b1a8d6e21&sni=smotret.tv&serviceName=grpc-service#[🇹🇻 TV] VLESS-Reality | src:0xradikal-all
-vless://2b81c772-78c2-49d7-ac3f-537b654bc53e@swself2.yandex-api.com:443?encryption=none&type=grpc&security=reality&serviceName=grpc-service&sni=smotret.tv&fp=edge&pbk=KQASJC-erEvv8cgBbvJRMfHq0Z0TApsQUNtdSwl0YQY&sid=8f3e9c4b1a8d6e21#[🇹🇻 TV] VLESS-Reality | src:0xradikal-all
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@leviko-de2799.shopingggg.ir:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=twitch.tv&pbk=wgyw3OxZw4HEzedNdY_eHdcVkrtT7GEeZSHfzcZ8iDo&sid=168c15efac9df5fd#[🇹🇻 TV] VLESS-Reality | src:0xradikal-all
 vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@147.45.51.171:8443?flow=xtls-rprx-vision&fp=firefox&pbk=dPa581kev2x9-st7VQ-DTh3NjXlHJ2830YDySuI8n2U&security=reality&sid=e723d26df67888b9&sni=twitch.tv&type=tcp#[🇹🇻 TV] VLESS-Reality | src:0xradikal-all
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@173.245.58.66:443/?type=ws&encryption=none&flow=&host=server19.aibox.tv&path=...&security=tls&sni=server19.aibox.tv#[🇹🇻 TV] VLESS-ws | src:lalatinahub-mineral
 vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@icook.tw:2096/?type=ws&encryption=none&flow=&host=server18.aibox.tv&path=%2FTG-AiLuMao%2F&security=tls&sni=server18.aibox.tv&fp=chrome#[🇹🇻 TV] VLESS-ws | src:lalatinahub-mineral
