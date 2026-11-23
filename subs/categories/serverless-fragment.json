@@ -6,9 +6,9 @@
       "donate2": "USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o",
       "donate3": "TON (TON): UQAc-mZB3y7uxWHKiMmq0ORZEYgycWDWZ4V1k73HsXvTJx-i"
     },
-    "remarks": "Serverless-v64-fragA",
+    "remarks": "Serverless-v65-fragA",
     "version": {
-      "min": "26.11.21"
+      "min": "26.11.23"
     },
     "log": {
       "loglevel": "warning",
@@ -30,23 +30,22 @@
     },
     "dns": {
       "hosts": {
-        "geosite:category-ads-all": "#3",
         "dns.redirect": [
           "2606:4700:4408::ac40:9bd1",
           "2a06:98c1:3122::",
           "2a06:98c1:3101::6812:202f",
           "2a06:98c1:3123::",
-          "104.18.0.8"
+          "188.114.99.0"
         ],
         "cloudflare.redirect": [
           "2606:4700:4408::ac40:9bd1",
           "2a06:98c1:3122::",
           "2a06:98c1:3101::6812:202f",
           "2a06:98c1:3123::",
-          "104.18.0.8"
+          "188.114.99.0"
         ],
         "x.redirect": [
-          "104.18.0.8"
+          "188.114.99.0"
         ]
       },
       "servers": [
@@ -59,11 +58,9 @@
             "geosite:category-ai-cn",
             "geosite:category-ai-!cn",
             "geosite:category-ai-ru",
-            "geosite:hcaptcha",
+            "domain:cloudflare.com",
             "geosite:category-speedtest",
-            "geosite:category-ip-geo-detect",
-            "geosite:stackexchange",
-            "geosite:category-consent-management"
+            "geosite:category-ip-geo-detect"
           ]
         },
         {
@@ -82,11 +79,9 @@
             "geosite:category-ai-cn",
             "geosite:category-ai-!cn",
             "geosite:category-ai-ru",
-            "geosite:hcaptcha",
+            "domain:cloudflare.com",
             "geosite:category-speedtest",
-            "geosite:category-ip-geo-detect",
-            "geosite:stackexchange",
-            "geosite:category-consent-management"
+            "geosite:category-ip-geo-detect"
           ],
           "timeoutMs": 12000,
           "finalQuery": true
@@ -147,6 +142,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -197,6 +193,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -254,6 +251,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -291,6 +289,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -351,6 +350,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -411,6 +411,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -484,6 +485,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32,
               "successDefinition": "tlshandshakecomplete"
             }
@@ -612,12 +614,6 @@
       "domainStrategy": "IPOnDemand",
       "rules": [
         {
-          "outboundTag": "block",
-          "domain": [
-            "geosite:category-ads-all"
-          ]
-        },
-        {
           "outboundTag": "tcp-direct",
           "inboundTag": [
             "domestic-dns"
@@ -642,6 +638,17 @@
           "port": 53
         },
         {
+          "outboundTag": "block",
+          "domain": [
+            "geosite:category-ads-all",
+            "geosite:category-doh"
+          ]
+        },
+        {
+          "outboundTag": "block",
+          "port": 853
+        },
+        {
           "outboundTag": "tcp-direct",
           "network": "tcp",
           "domain": [
@@ -651,11 +658,9 @@
             "geosite:category-ai-cn",
             "geosite:category-ai-!cn",
             "geosite:category-ai-ru",
-            "geosite:hcaptcha",
+            "domain:cloudflare.com",
             "geosite:category-speedtest",
-            "geosite:category-ip-geo-detect",
-            "geosite:stackexchange",
-            "geosite:category-consent-management"
+            "geosite:category-ip-geo-detect"
           ]
         },
         {
@@ -668,11 +673,9 @@
             "geosite:category-ai-cn",
             "geosite:category-ai-!cn",
             "geosite:category-ai-ru",
-            "geosite:hcaptcha",
+            "domain:cloudflare.com",
             "geosite:category-speedtest",
-            "geosite:category-ip-geo-detect",
-            "geosite:stackexchange",
-            "geosite:category-consent-management"
+            "geosite:category-ip-geo-detect"
           ]
         },
         {
@@ -842,9 +845,9 @@
       "donate2": "USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o",
       "donate3": "TON (TON): UQAc-mZB3y7uxWHKiMmq0ORZEYgycWDWZ4V1k73HsXvTJx-i"
     },
-    "remarks": "Serverless-v64-fragB",
+    "remarks": "Serverless-v65-fragB",
     "version": {
-      "min": "26.11.21"
+      "min": "26.11.23"
     },
     "log": {
       "loglevel": "warning",
@@ -866,23 +869,22 @@
     },
     "dns": {
       "hosts": {
-        "geosite:category-ads-all": "#3",
         "dns.redirect": [
           "2606:4700:4408::ac40:9bd1",
           "2a06:98c1:3122::",
           "2a06:98c1:3101::6812:202f",
           "2a06:98c1:3123::",
-          "104.18.0.8"
+          "188.114.99.0"
         ],
         "cloudflare.redirect": [
           "2606:4700:4408::ac40:9bd1",
           "2a06:98c1:3122::",
           "2a06:98c1:3101::6812:202f",
           "2a06:98c1:3123::",
-          "104.18.0.8"
+          "188.114.99.0"
         ],
         "x.redirect": [
-          "104.18.0.8"
+          "188.114.99.0"
         ]
       },
       "servers": [
@@ -895,11 +897,9 @@
             "geosite:category-ai-cn",
             "geosite:category-ai-!cn",
             "geosite:category-ai-ru",
-            "geosite:hcaptcha",
+            "domain:cloudflare.com",
             "geosite:category-speedtest",
-            "geosite:category-ip-geo-detect",
-            "geosite:stackexchange",
-            "geosite:category-consent-management"
+            "geosite:category-ip-geo-detect"
           ]
         },
         {
@@ -918,11 +918,9 @@
             "geosite:category-ai-cn",
             "geosite:category-ai-!cn",
             "geosite:category-ai-ru",
-            "geosite:hcaptcha",
+            "domain:cloudflare.com",
             "geosite:category-speedtest",
-            "geosite:category-ip-geo-detect",
-            "geosite:stackexchange",
-            "geosite:category-consent-management"
+            "geosite:category-ip-geo-detect"
           ],
           "timeoutMs": 12000,
           "finalQuery": true
@@ -983,6 +981,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -1033,6 +1032,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -1090,6 +1090,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -1127,6 +1128,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -1187,6 +1189,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -1247,6 +1250,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -1320,6 +1324,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32,
               "successDefinition": "tlshandshakecomplete"
             }
@@ -1448,12 +1453,6 @@
       "domainStrategy": "IPOnDemand",
       "rules": [
         {
-          "outboundTag": "block",
-          "domain": [
-            "geosite:category-ads-all"
-          ]
-        },
-        {
           "outboundTag": "tcp-direct",
           "inboundTag": [
             "domestic-dns"
@@ -1478,6 +1477,17 @@
           "port": 53
         },
         {
+          "outboundTag": "block",
+          "domain": [
+            "geosite:category-ads-all",
+            "geosite:category-doh"
+          ]
+        },
+        {
+          "outboundTag": "block",
+          "port": 853
+        },
+        {
           "outboundTag": "tcp-direct",
           "network": "tcp",
           "domain": [
@@ -1487,11 +1497,9 @@
             "geosite:category-ai-cn",
             "geosite:category-ai-!cn",
             "geosite:category-ai-ru",
-            "geosite:hcaptcha",
+            "domain:cloudflare.com",
             "geosite:category-speedtest",
-            "geosite:category-ip-geo-detect",
-            "geosite:stackexchange",
-            "geosite:category-consent-management"
+            "geosite:category-ip-geo-detect"
           ]
         },
         {
@@ -1504,11 +1512,9 @@
             "geosite:category-ai-cn",
             "geosite:category-ai-!cn",
             "geosite:category-ai-ru",
-            "geosite:hcaptcha",
+            "domain:cloudflare.com",
             "geosite:category-speedtest",
-            "geosite:category-ip-geo-detect",
-            "geosite:stackexchange",
-            "geosite:category-consent-management"
+            "geosite:category-ip-geo-detect"
           ]
         },
         {
@@ -1678,9 +1684,9 @@
       "donate2": "USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o",
       "donate3": "TON (TON): UQAc-mZB3y7uxWHKiMmq0ORZEYgycWDWZ4V1k73HsXvTJx-i"
     },
-    "remarks": "Serverless-v64-oob",
+    "remarks": "Serverless-v65-oob",
     "version": {
-      "min": "26.11.21"
+      "min": "26.11.23"
     },
     "log": {
       "loglevel": "warning",
@@ -1702,23 +1708,22 @@
     },
     "dns": {
       "hosts": {
-        "geosite:category-ads-all": "#3",
         "dns.redirect": [
           "2606:4700:4408::ac40:9bd1",
           "2a06:98c1:3122::",
           "2a06:98c1:3101::6812:202f",
           "2a06:98c1:3123::",
-          "104.18.0.8"
+          "188.114.99.0"
         ],
         "cloudflare.redirect": [
           "2606:4700:4408::ac40:9bd1",
           "2a06:98c1:3122::",
           "2a06:98c1:3101::6812:202f",
           "2a06:98c1:3123::",
-          "104.18.0.8"
+          "188.114.99.0"
         ],
         "x.redirect": [
-          "104.18.0.8"
+          "188.114.99.0"
         ]
       },
       "servers": [
@@ -1731,11 +1736,9 @@
             "geosite:category-ai-cn",
             "geosite:category-ai-!cn",
             "geosite:category-ai-ru",
-            "geosite:hcaptcha",
+            "domain:cloudflare.com",
             "geosite:category-speedtest",
-            "geosite:category-ip-geo-detect",
-            "geosite:stackexchange",
-            "geosite:category-consent-management"
+            "geosite:category-ip-geo-detect"
           ]
         },
         {
@@ -1754,11 +1757,9 @@
             "geosite:category-ai-cn",
             "geosite:category-ai-!cn",
             "geosite:category-ai-ru",
-            "geosite:hcaptcha",
+            "domain:cloudflare.com",
             "geosite:category-speedtest",
-            "geosite:category-ip-geo-detect",
-            "geosite:stackexchange",
-            "geosite:category-consent-management"
+            "geosite:category-ip-geo-detect"
           ],
           "timeoutMs": 12000,
           "finalQuery": true
@@ -1819,6 +1820,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -1869,6 +1871,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -1911,6 +1914,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -1948,6 +1952,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -1993,6 +1998,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -2038,6 +2044,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32
             }
           }
@@ -2095,6 +2102,7 @@
               "tryDelayMs": 300,
               "prioritizeIPv6": true,
               "interleave": 4,
+              "assuranceFirstInterleave": true,
               "maxConcurrentTry": 32,
               "successDefinition": "tlshandshakecomplete"
             }
@@ -2223,12 +2231,6 @@
       "domainStrategy": "IPOnDemand",
       "rules": [
         {
-          "outboundTag": "block",
-          "domain": [
-            "geosite:category-ads-all"
-          ]
-        },
-        {
           "outboundTag": "tcp-direct",
           "inboundTag": [
             "domestic-dns"
@@ -2253,6 +2255,17 @@
           "port": 53
         },
         {
+          "outboundTag": "block",
+          "domain": [
+            "geosite:category-ads-all",
+            "geosite:category-doh"
+          ]
+        },
+        {
+          "outboundTag": "block",
+          "port": 853
+        },
+        {
           "outboundTag": "tcp-direct",
           "network": "tcp",
           "domain": [
@@ -2262,11 +2275,9 @@
             "geosite:category-ai-cn",
             "geosite:category-ai-!cn",
             "geosite:category-ai-ru",
-            "geosite:hcaptcha",
+            "domain:cloudflare.com",
             "geosite:category-speedtest",
-            "geosite:category-ip-geo-detect",
-            "geosite:stackexchange",
-            "geosite:category-consent-management"
+            "geosite:category-ip-geo-detect"
           ]
         },
         {
@@ -2279,11 +2290,9 @@
             "geosite:category-ai-cn",
             "geosite:category-ai-!cn",
             "geosite:category-ai-ru",
-            "geosite:hcaptcha",
+            "domain:cloudflare.com",
             "geosite:category-speedtest",
-            "geosite:category-ip-geo-detect",
-            "geosite:stackexchange",
-            "geosite:category-consent-management"
+            "geosite:category-ip-geo-detect"
           ]
         },
         {
@@ -2583,7 +2592,7 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 185.230.230.18:19999 36ms 1483.6Mbps",
+    "remarks": "🇺🇸 | 37.19.198.160:443 27ms n/a",
     "log": {
       "loglevel": "warning"
     },
@@ -2625,190 +2634,7 @@
         "settings": {
           "servers": [
             {
-              "address": "185.230.230.18",
-              "port": 19999,
-              "method": "aes-256-gcm",
-              "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-            }
-          ]
-        },
-        "tag": "proxy",
-        "streamSettings": {
-          "sockopt": {
-            "dialerProxy": "entry"
-          }
-        }
-      },
-      {
-        "protocol": "shadowsocks",
-        "settings": {
-          "servers": [
-            {
-              "address": "37.19.198.244",
-              "port": 443,
-              "method": "aes-128-gcm",
-              "password": "shadowsocks"
-            }
-          ]
-        },
-        "tag": "entry"
-      },
-      {
-        "tag": "direct",
-        "protocol": "freedom",
-        "settings": {}
-      },
-      {
-        "tag": "block",
-        "protocol": "blackhole",
-        "settings": {}
-      }
-    ],
-    "routing": {
-      "domainStrategy": "AsIs",
-      "rules": []
-    }
-  },
-  {
-    "remarks": "🇺🇸 | 156.146.38.170:443 91ms 36.2Mbps",
-    "log": {
-      "loglevel": "warning"
-    },
-    "dns": {
-      "servers": [
-        "1.1.1.1",
-        "8.8.8.8"
-      ]
-    },
-    "inbounds": [
-      {
-        "tag": "socks",
-        "listen": "127.0.0.1",
-        "port": 10808,
-        "protocol": "socks",
-        "settings": {
-          "auth": "noauth",
-          "udp": true
-        },
-        "sniffing": {
-          "enabled": true,
-          "destOverride": [
-            "http",
-            "tls"
-          ]
-        }
-      },
-      {
-        "tag": "http",
-        "listen": "127.0.0.1",
-        "port": 10809,
-        "protocol": "http",
-        "settings": {}
-      }
-    ],
-    "outbounds": [
-      {
-        "protocol": "shadowsocks",
-        "settings": {
-          "servers": [
-            {
-              "address": "156.146.38.170",
-              "port": 443,
-              "method": "aes-128-gcm",
-              "password": "shadowsocks"
-            }
-          ]
-        },
-        "tag": "proxy",
-        "streamSettings": {
-          "sockopt": {
-            "dialerProxy": "entry"
-          }
-        }
-      },
-      {
-        "protocol": "vmess",
-        "settings": {
-          "vnext": [
-            {
-              "address": "67.220.85.46",
-              "port": 18000,
-              "users": [
-                {
-                  "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
-                  "alterId": 0,
-                  "security": "aes-128-gcm"
-                }
-              ]
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "none"
-        },
-        "tag": "entry"
-      },
-      {
-        "tag": "direct",
-        "protocol": "freedom",
-        "settings": {}
-      },
-      {
-        "tag": "block",
-        "protocol": "blackhole",
-        "settings": {}
-      }
-    ],
-    "routing": {
-      "domainStrategy": "AsIs",
-      "rules": []
-    }
-  },
-  {
-    "remarks": "🇺🇸 | 156.146.38.169:443 93ms 10.3Mbps",
-    "log": {
-      "loglevel": "warning"
-    },
-    "dns": {
-      "servers": [
-        "1.1.1.1",
-        "8.8.8.8"
-      ]
-    },
-    "inbounds": [
-      {
-        "tag": "socks",
-        "listen": "127.0.0.1",
-        "port": 10808,
-        "protocol": "socks",
-        "settings": {
-          "auth": "noauth",
-          "udp": true
-        },
-        "sniffing": {
-          "enabled": true,
-          "destOverride": [
-            "http",
-            "tls"
-          ]
-        }
-      },
-      {
-        "tag": "http",
-        "listen": "127.0.0.1",
-        "port": 10809,
-        "protocol": "http",
-        "settings": {}
-      }
-    ],
-    "outbounds": [
-      {
-        "protocol": "shadowsocks",
-        "settings": {
-          "servers": [
-            {
-              "address": "156.146.38.169",
+              "address": "37.19.198.160",
               "port": 443,
               "method": "aes-128-gcm",
               "password": "shadowsocks"
@@ -2862,7 +2688,103 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 156.146.38.168:443 163ms 364.3Mbps",
+    "remarks": "🇺🇸 | 37.19.198.244:443 28ms n/a",
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ]
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls"
+          ]
+        }
+      },
+      {
+        "tag": "http",
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": {}
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "shadowsocks",
+        "settings": {
+          "servers": [
+            {
+              "address": "37.19.198.244",
+              "port": 443,
+              "method": "aes-128-gcm",
+              "password": "shadowsocks"
+            }
+          ]
+        },
+        "tag": "proxy",
+        "streamSettings": {
+          "sockopt": {
+            "dialerProxy": "entry"
+          }
+        }
+      },
+      {
+        "protocol": "vmess",
+        "settings": {
+          "vnext": [
+            {
+              "address": "67.220.85.46",
+              "port": 18000,
+              "users": [
+                {
+                  "id": "f8c8dc3d-0d37-46b0-8b34-a7232882fcfe",
+                  "alterId": 0,
+                  "security": "aes-128-gcm"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "none"
+        },
+        "tag": "entry"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom",
+        "settings": {}
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole",
+        "settings": {}
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": []
+    }
+  },
+  {
+    "remarks": "🇺🇸 | 156.146.38.168:443 98ms n/a",
     "log": {
       "loglevel": "warning"
     },
@@ -2919,105 +2841,6 @@
         }
       },
       {
-        "protocol": "trojan",
-        "settings": {
-          "servers": [
-            {
-              "address": "170.101.101.112",
-              "port": 443,
-              "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a"
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "tls",
-          "tlsSettings": {
-            "allowInsecure": false,
-            "serverName": "resources.explorecreativejobsandenhanceyourcareerportfolio.com"
-          }
-        },
-        "tag": "entry"
-      },
-      {
-        "tag": "direct",
-        "protocol": "freedom",
-        "settings": {}
-      },
-      {
-        "tag": "block",
-        "protocol": "blackhole",
-        "settings": {}
-      }
-    ],
-    "routing": {
-      "domainStrategy": "AsIs",
-      "rules": []
-    }
-  },
-  {
-    "remarks": "🇺🇸 | 216.152.155.59:443 181ms 244.3Mbps",
-    "log": {
-      "loglevel": "warning"
-    },
-    "dns": {
-      "servers": [
-        "1.1.1.1",
-        "8.8.8.8"
-      ]
-    },
-    "inbounds": [
-      {
-        "tag": "socks",
-        "listen": "127.0.0.1",
-        "port": 10808,
-        "protocol": "socks",
-        "settings": {
-          "auth": "noauth",
-          "udp": true
-        },
-        "sniffing": {
-          "enabled": true,
-          "destOverride": [
-            "http",
-            "tls"
-          ]
-        }
-      },
-      {
-        "tag": "http",
-        "listen": "127.0.0.1",
-        "port": 10809,
-        "protocol": "http",
-        "settings": {}
-      }
-    ],
-    "outbounds": [
-      {
-        "protocol": "trojan",
-        "settings": {
-          "servers": [
-            {
-              "address": "216.152.155.59",
-              "port": 443,
-              "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a"
-            }
-          ]
-        },
-        "streamSettings": {
-          "network": "tcp",
-          "security": "tls",
-          "tlsSettings": {
-            "allowInsecure": false,
-            "serverName": "api.nextjobopportunityandclaimyouridealrole.com"
-          },
-          "sockopt": {
-            "dialerProxy": "entry"
-          }
-        },
-        "tag": "proxy"
-      },
-      {
         "protocol": "vmess",
         "settings": {
           "vnext": [
@@ -3057,7 +2880,7 @@
     }
   },
   {
-    "remarks": "🇺🇸 | 37.19.198.244:443 351ms 116.0Mbps",
+    "remarks": "🇺🇸 | 156.146.38.169:443 103ms n/a",
     "log": {
       "loglevel": "warning"
     },
@@ -3099,7 +2922,7 @@
         "settings": {
           "servers": [
             {
-              "address": "37.19.198.244",
+              "address": "156.146.38.169",
               "port": 443,
               "method": "aes-128-gcm",
               "password": "shadowsocks"
@@ -3112,6 +2935,192 @@
             "dialerProxy": "entry"
           }
         }
+      },
+      {
+        "protocol": "shadowsocks",
+        "settings": {
+          "servers": [
+            {
+              "address": "37.19.198.244",
+              "port": 443,
+              "method": "aes-128-gcm",
+              "password": "shadowsocks"
+            }
+          ]
+        },
+        "tag": "entry"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom",
+        "settings": {}
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole",
+        "settings": {}
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": []
+    }
+  },
+  {
+    "remarks": "🇺🇸 | 156.146.38.170:443 149ms n/a",
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ]
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls"
+          ]
+        }
+      },
+      {
+        "tag": "http",
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": {}
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "shadowsocks",
+        "settings": {
+          "servers": [
+            {
+              "address": "156.146.38.170",
+              "port": 443,
+              "method": "aes-128-gcm",
+              "password": "shadowsocks"
+            }
+          ]
+        },
+        "tag": "proxy",
+        "streamSettings": {
+          "sockopt": {
+            "dialerProxy": "entry"
+          }
+        }
+      },
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "170.101.101.112",
+              "port": 443,
+              "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a"
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "tls",
+          "tlsSettings": {
+            "allowInsecure": false,
+            "serverName": "resources.explorecreativejobsandenhanceyourcareerportfolio.com"
+          }
+        },
+        "tag": "entry"
+      },
+      {
+        "tag": "direct",
+        "protocol": "freedom",
+        "settings": {}
+      },
+      {
+        "tag": "block",
+        "protocol": "blackhole",
+        "settings": {}
+      }
+    ],
+    "routing": {
+      "domainStrategy": "AsIs",
+      "rules": []
+    }
+  },
+  {
+    "remarks": "🇺🇸 | 170.101.101.67:443 558ms 204.1Mbps",
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "servers": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ]
+    },
+    "inbounds": [
+      {
+        "tag": "socks",
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "socks",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "enabled": true,
+          "destOverride": [
+            "http",
+            "tls"
+          ]
+        }
+      },
+      {
+        "tag": "http",
+        "listen": "127.0.0.1",
+        "port": 10809,
+        "protocol": "http",
+        "settings": {}
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "170.101.101.67",
+              "port": 443,
+              "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a"
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "tls",
+          "tlsSettings": {
+            "allowInsecure": false,
+            "serverName": "courses.explorecreativejobsandenhanceyourcareerportfolio.com"
+          },
+          "sockopt": {
+            "dialerProxy": "entry"
+          }
+        },
+        "tag": "proxy"
       },
       {
         "protocol": "shadowsocks",

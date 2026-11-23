@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.49:989#[🇸🇮 SI] SS | src:farid-karimi-mixed-iran
-vless://9b4fa3d7-c4da-4aa0-bc78-87d59697b7b1@welovefoxy.ir:27418?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=yUu8VH2mf13ZBOHUBHNlymCZXIVWLBZ_Wz_JyFIFbU4&security=reality&sid=478ddb1c0001&sni=www.sony.si&spx=%2Fda6335e93ce4590&support-x25519mlkem768=true&type=tcp#[🇸🇮 SI] VLESS-Reality | src:miladtahanian-mixed-iran
 vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053/?type=tcp&encryption=none&flow=#[🇸🇮 SI] VLESS-tcp | src:sub-07d2577deb
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@91.132.94.200:989#[🇸🇮 SI] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZkFpeXJkRmJLSnVLSVFrR2p2SnJERmVmbUg4WURTQw@45.83.131.43:443#[🇸🇮 SI] SS | src:lalatinahub-mineral
