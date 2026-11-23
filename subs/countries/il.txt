@@ -2,12 +2,11 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?security=reality&encryption=none&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&host=www.apple.com%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=a3a578ab#[🇮🇱 IL] VLESS-Reality | src:barry-far-all
 ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@83.229.73.120:50003#[🇮🇱 IL] SS | src:farid-karimi-mixed-iran
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#[🇮🇱 IL] SS | src:farid-karimi-mixed-iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzY0RqNjhmdjZ4a01nMm5wOVJnVw@212.199.61.55:8389#[🇮🇱 IL] SS | src:farid-karimi-mixed-iran
+vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?security=reality&encryption=none&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&host=www.apple.com%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=a3a578ab#[🇮🇱 IL] VLESS-Reality | src:barry-far-all
 vless://29627b5f-502c-4596-84f0-be07a1dd8bd5@31.57.185.176:443?security=reality&encryption=none&pbk=WSRUkuuId9FFfLjGfsCbl5ZXpV0I2ERCo35SKPPEQHY&headerType=none&fp=chrome&spx=/d875449d15fd7d4&type=tcp&sni=www.cloudflare.com&sid=d6a589#[🇮🇱 IL] VLESS-Reality | src:0xradikal-all
-vless://a9ff24d3-f308-4e72-acb9-a76062583837@45.140.204.17:22444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fontanka.ru&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a&type=tcp&headerType=none&host=fontanka.ru#[🇮🇱 IL] VLESS-Reality | src:heliataromi-confighub-mixed
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11201#[🇮🇱 IL] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11202#[🇮🇱 IL] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11203#[🇮🇱 IL] SS | src:sub-07d2577deb

@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
 vless://f1178fbe-1420-4eef-b087-4f33b32b4a19@139.162.27.96:443?fp=chrome&security=tls&sni=aka.ms&type=tcp#[🇲🇸 MS] VLESS-tcp | src:0xradikal-all
+trojan://GToK9gzuwh@146.190.84.34:443?allowInsecure=0&sni=aka.ms#[🇲🇸 MS] Trojan | src:0xradikal-all
 trojan://MwDUxmFOAo@152.42.162.175:443?sni=aka.ms&type=tcp#[🇲🇸 MS] Trojan-tcp | src:0xradikal-all
 trojan://dc54abbf-0b35-4e01-8aee-3fa16cc677bd@188.166.189.168:443?allowInsecure=0&sni=aka.ms#[🇲🇸 MS] Trojan | src:0xradikal-all
 trojan://j0GM8nFJVq@167.71.209.134:443?sni=aka.ms&fp=chrome&alpn=http%2F1.1&type=tcp#[🇲🇸 MS] Trojan-tcp | src:0xradikal-all
-trojan://GToK9gzuwh@146.190.84.34:443?allowInsecure=0&sni=aka.ms#[🇲🇸 MS] Trojan | src:0xradikal-all
