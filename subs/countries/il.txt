@@ -2,9 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiW/Cfh67wn4exIElMXSBWTWVzcy13cyB8IHNyYzpwZWFzb2Z0LW5vbW9yZXdhbGxzIiwgImFkZCI6ICJjZi44Nzc3NzQueHl6IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjYwNTE4ZmM4LTg4OWItNGVmMC04YjA5LTYzMDA0ZjhiMjk2NCIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJzYXAtaWwuMDg2NTcxLnh5eiIsICJob3N0IjogInNhcC1pbC4wODY1NzEueHl6IiwgInBhdGgiOiAiL3ZtZXNzLWFyZ28ifQ==
-vless://e89a2a0e-7803-447e-b050-3ba67962ed95@179.254.126.86:25135?security=reality&pbk=zJI16_ywLd4clshY0IQQPxQ_YBbIq2b0XTO_dnTJOy4&sid=fe51f413b9646e97&fp=firefox&sni=s-25452.nl18.h1clayd.click&type=tcp&headerType=none&host=s-25452.nl18.h1clayd.click&path=%2F#[🇮🇱 IL] VLESS-Reality | src:igareck-vless-rus
-vless://e89a2a0e-7803-447e-b050-3ba67962ed95@179.254.126.86:25201?type=grpc&security=reality&fp=firefox&pbk=YOgsoXtChX3RvA0Gf9SSsP8VLP4GGk7dytVBo9qZCH4&sid=221ba0d14384ccf1&sni=s-25454.nl18.h1clayd.click&serviceName=becc6caf9bea#[🇮🇱 IL] VLESS-Reality | src:igareck-vless-rus
+vmess://eyJ2IjogIjIiLCAicHMiOiAiW/Cfh67wn4exIElMXSBWTWVzcy13cyB8IHNyYzplcm1hb3ppLWdldC1zdWJzY3JpYmUiLCAiYWRkIjogImNmLjg3Nzc3NC54eXoiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiNjA1MThmYzgtODg5Yi00ZWYwLThiMDktNjMwMDRmOGIyOTY0IiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogInNhcC1pbC4wODY1NzEueHl6IiwgImhvc3QiOiAic2FwLWlsLjA4NjU3MS54eXoiLCAicGF0aCI6ICIvdm1lc3MtYXJnbyJ9
 ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@83.229.73.120:50003#[🇮🇱 IL] SS | src:farid-karimi-mixed-iran
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@31.133.100.49:50004#[🇮🇱 IL] SS | src:farid-karimi-mixed-iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzY0RqNjhmdjZ4a01nMm5wOVJnVw@212.199.61.55:8389#[🇮🇱 IL] SS | src:farid-karimi-mixed-iran
@@ -20,4 +18,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmU1OTVhZWI3YTZhMDM1@163.171.213.47:12025#[
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTVjNzVjMzVkN2VlOTI5@163.171.213.47:19702#[🇮🇱 IL] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#[🇮🇱 IL] SS | src:sub-07d2577deb
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com&type=tcp#[🇮🇱 IL] Trojan-tcp | src:0xradikal-all
-vless://7cbd9bf9-a3b1-4257-8406-df6109cd882f@160.5.217.235:18571?security=reality&flow=xtls-rprx-vision&pbk=MuM-561LS982i10yHWrEFgsKZiackG-saxV_6VKYRgA&sid=4623bc9c878dcd5b&sni=il.chick-chirik.com&fp=firefox#[🇮🇱 IL] VLESS-Reality | src:sub-2516e474b9
+vless://e89a2a0e-7803-447e-b050-3ba67962ed95@87.228.92.112:25135?pbk=zJI16_ywLd4clshY0IQQPxQ_YBbIq2b0XTO_dnTJOy4&security=reality&sid=fe51f413b9646e97&sni=s-25452.nl18.h1clayd.click&fp=safari#[🇮🇱 IL] VLESS-Reality | src:sub-2516e474b9

@@ -1659,6 +1659,58 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "tg-vmesskhodam",
+      "name": "Telegram @vmesskhodam",
+      "url": "https://t.me/s/vmesskhodam",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-net2ray",
+      "name": "Telegram @net2ray",
+      "url": "https://t.me/s/net2ray",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-proxymelimon",
+      "name": "Telegram @proxymelimon",
+      "url": "https://t.me/s/proxymelimon",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-hope_net",
+      "name": "Telegram @hope_net",
+      "url": "https://t.me/s/hope_net",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": 1795434943,
+  "last_updated": 1795527474,
   "queries_executed": [
     "site:t.me \"vless://\" reality",
     "site:t.me \"vmess://\" OR \"trojan://\" iran",
@@ -137,36 +137,40 @@
     "site:t.me OR site:telegra.ph (\"姊妹频道\" OR \"备用频道\" OR \"镜像频道\" OR \"替代频道\" OR \"相关频道\" OR \"聚合频道\" OR \"频道合集\" OR \"频道导航\" OR \"频道目录\") (\"vless reality\" OR \"hysteria2\" OR \"trojan\" OR \"vmess\" OR \"v2ray\" OR \"shadowsocks\" OR \"tuic\" OR \"wireguard\") (\"免费订阅\" OR \"每日更新\" OR \"每小时更新\" OR \"自动更新\" OR \"无日志\" OR \"base64配置\" OR \"sing-box\" OR \"clash-meta\" OR \"v2rayNG\" OR \"nekoray\" OR \"hiddify\" OR \"streisand\") 2025 -raydikalx -azadnet -shadowsocksm -ArashOnline",
     "gh:topic:proxy-aggregator OR topic:subscription-collector OR topic:node-share OR topic:config-collector OR topic:free-proxy-list OR topic:v2ray-subscription OR topic:vless-reality OR topic:hysteria2-config OR topic:trojan-go OR topic:sing-box-config OR topic:clash-meta-config vless reality hysteria2 trojan vmess free subscription stars:>3 pushed:>2025-01-01 sort:updated-desc language:Go,Python,JavaScript,TypeScript,Rust,Shell",
     "gh:topic:circumvention-tools OR topic:anti-censorship OR topic:gfw-bypass OR topic:iran-proxy OR topic:china-proxy OR topic:russia-proxy OR topic:proxy-tools OR topic:vpn-configs v2ray vless hysteria2 trojan vmess free nodes stars:>3 pushed:>2024-06-01 sort:stars-desc language:Rust,TypeScript,Go,Python fork:true",
-    "gh:topic:free-v2ray-nodes OR topic:vless-subscription OR topic:hysteria2-nodes OR topic:trojan-nodes OR topic:sing-box-nodes OR topic:clash-nodes vless reality hysteria2 trojan vmess free config stars:>5 pushed:>2025-01-01 sort:updated-desc language:Python,Go,JavaScript,Shell user:cyrusalbert OR user:raydikalx OR user:azadnet OR user:shadowsocksm"
+    "gh:topic:free-v2ray-nodes OR topic:vless-subscription OR topic:hysteria2-nodes OR topic:trojan-nodes OR topic:sing-box-nodes OR topic:clash-nodes vless reality hysteria2 trojan vmess free config stars:>5 pushed:>2025-01-01 sort:updated-desc language:Python,Go,JavaScript,Shell user:cyrusalbert OR user:raydikalx OR user:azadnet OR user:shadowsocksm",
+    "site:t.me OR site:telegra.ph (\"curated\" OR \"verified\" OR \"tested\" OR \"handpicked\" OR \"premium quality\" OR \"vip nodes\") (\"vless reality\" OR \"hysteria2\" OR \"trojan-go\" OR \"vmess\" OR \"tuic\" OR \"wireguard\") (\"subscription\" OR \"config\" OR \"nodes\") (\"sing-box\" OR \"clash-meta\" OR \"v2rayNG\" OR \"nekoray\" OR \"hiddify\" OR \"streisand\" OR \"shadowrocket\") 2025 -raydikalx -azadnet -shadowsocksm -ArashOnline -cyrusalbert",
+    "site:t.me OR site:telegra.ph (\"channel list\" OR \"channel directory\" OR \"channel navigation\" OR \"channel index\" OR \"all channels\" OR \"master list\" OR \"complete list\") (\"vless\" OR \"hysteria2\" OR \"trojan\" OR \"vmess\" OR \"reality\") (\"free\" OR \"daily\" OR \"auto\") (\"raw.githubusercontent.com\" OR \"gitlab.com\" OR \"gist.github.com\" OR \"pastebin.com\" OR \"telegra.ph\") -raydikalx -azadnet -shadowsocksm",
+    "site:t.me OR site:telegra.ph (\"کانال‌های معتبر\" OR \"کانال‌های تست‌شده\" OR \"لیست کامل کانال\" OR \"دایرکتوری کانال‌ها\" OR \"مجموعه کانال‌های فیلترشکن\" OR \"بهترین کانال‌ها\") (\"vless reality\" OR \"hysteria2\" OR \"trojan\" OR \"vmess\") (\"اشتراک رایگان\" OR \"کانفیگ\" OR \"نود\") (\"sing-box\" OR \"clash-meta\" OR \"v2rayNG\" OR \"نکورای\" OR \"هیدیفای\") ۱۴۰۴ -raydikalx -azadnet -shadowsocksm",
+    "site:t.me OR site:telegra.ph (\"подборка каналов\" OR \"каталог каналов\" OR \"проверенные каналы\" OR \"лучшие каналы\" OR \"список всех каналов\" OR \"навигатор каналов\") (\"vless reality\" OR \"hysteria2\" OR \"trojan-go\" OR \"vmess\" OR \"tuic\") (\"бесплатная подписка\" OR \"конфиги\" OR \"ноды\") (\"sing-box\" OR \"clash-meta\" OR \"v2rayNG\" OR \"nekoray\") 2025 -raydikalx -azadnet -shadowsocksm",
+    "gh:filename:sub.txt OR filename:config.json OR filename:nodes.txt OR filename:v2ray.txt OR filename:clash.yaml OR filename:sing-box.json (vless OR hysteria2 OR trojan OR vmess OR reality) (free OR subscription OR nodes) pushed:>2025-01-01 sort:updated-desc",
+    "gh:topic:proxy-bot OR topic:subscription-bot OR topic:config-updater OR topic:node-fetcher OR topic:auto-update vless reality hysteria2 trojan vmess free language:Python,Go,JavaScript,TypeScript,Rust stars:>3 pushed:>2025-01-01 sort:updated-desc",
+    "gh:topic:proxy-list OR topic:free-proxy OR topic:vpn-configs OR topic:circumvention-configs (vless OR hysteria2 OR trojan OR vmess OR reality) (sing-box OR clash-meta OR v2rayNG OR nekoray OR hiddify) stars:>5 pushed:>2024-06-01 sort:stars-desc fork:true"
   ],
   "candidate_queue": [
-    "mohivpn",
-    "mitivpn",
-    "vpn_proxy_channel_vpn_proxy_channel",
-    "vmesskhodam",
-    "redirect",
-    "library98",
-    "fsxtl1",
-    "creativecommons",
-    "yesok42v2",
-    "german4",
-    "sad24",
-    "curt232",
-    "dark",
-    "imgur",
-    "cfcdn",
-    "v2tr",
-    "cold",
-    "appsooner",
-    "vipde5",
-    "turkey2",
-    "broad",
-    "serve_excellent",
-    "avtxr76qwuvvgavtafstyshsv",
-    "shab",
-    "fishlab",
-    "zula",
-    "hello"
+    "vpncustomize",
+    "pirozi_argap",
+    "n2jp",
+    "dddz",
+    "rgitupbot",
+    "mhsanaei",
+    "shahabsl",
+    "arsh_66",
+    "femininedick",
+    "hamedp71",
+    "z_yrln",
+    "z_yrln_channel",
+    "mkeefeanalog",
+    "vaydnsandroid",
+    "xxxxxx",
+    "duckitsupport",
+    "loos",
+    "asure",
+    "resp",
+    "asia2",
+    "hesarweb",
+    "makvaslim",
+    "smoothconnectbot",
+    "p141"
   ],
   "candidate_scores": {
     "configshub": 1,
@@ -1924,7 +1928,7 @@
     "irspix": 2,
     "polnet_support": 6,
     "polnetvpn": 6,
-    "v2school": 1,
+    "v2school": 2,
     "v2raybaaz": 6,
     "anty_filter": 4,
     "appcity_official": 1,
@@ -2139,8 +2143,8 @@
     "tutf4rngi": 1,
     "toot_farangi23": 1,
     "t0ot_farangi0": 1,
-    "hope_net": 6,
-    "proxymelimon": 6,
+    "hope_net": 8,
+    "proxymelimon": 9,
     "skyvora": 1,
     "vodiwalkervpn03": 6,
     "botfather": 1,
@@ -2315,7 +2319,68 @@
     "vmesskhodam": 6,
     "fishlab": 1,
     "zula": 1,
-    "hello": 1
+    "hello": 1,
+    "mitivpnbot": 8,
+    "ads27279": 3,
+    "amirqrbani": 1,
+    "sonau": 1,
+    "laptop": 1,
+    "library98info": 3,
+    "library98usedbooks": 1,
+    "scan": 1,
+    "sca11": 1,
+    "sca12": 1,
+    "gozarnetsuportt": 7,
+    "v2rayir1": 6,
+    "irapple": 1,
+    "vpnbaaz": 6,
+    "crypto": 1,
+    "connect": 1,
+    "clash2": 6,
+    "net2ray": 6,
+    "esti": 1,
+    "d0f7fax": 1,
+    "8a2e72t": 1,
+    "jize": 1,
+    "o685y": 1,
+    "support": 1,
+    "musketries": 1,
+    "it_fouri": 1,
+    "conmectbashbot": 2,
+    "sca34": 1,
+    "series": 1,
+    "swapnetrobot": 6,
+    "adsitobot": 1,
+    "kakaduvpsbot": 1,
+    "baicai_dev": 1,
+    "rgitupbot": 1,
+    "mhsanaei": 1,
+    "shahabsl": 1,
+    "ir_netlify": 6,
+    "arsh_66": 1,
+    "femininedick": 1,
+    "hamedp71": 1,
+    "z_yrln": 1,
+    "z_yrln_channel": 1,
+    "mkeefeanalog": 1,
+    "duckitvpnbot": 6,
+    "vaydnsandroid": 1,
+    "xxxxxx": 1,
+    "duckitsupport": 1,
+    "loos": 1,
+    "asure": 1,
+    "resp": 1,
+    "asia2": 1,
+    "hesarweb": 1,
+    "pirozi_argap": 2,
+    "netfreedom0": 6,
+    "farsiproxy": 6,
+    "makvaslim": 1,
+    "n2jp": 2,
+    "dddz": 2,
+    "smoothconnectbot": 1,
+    "vpncustomize": 6,
+    "p141": 1
   },
   "visited_channels": [
     "configshub",
@@ -3389,7 +3454,32 @@
     "nlcdn",
     "decdn",
     "forallpanel",
-    "decdnetwork"
+    "decdnetwork",
+    "mohivpn",
+    "mitivpn",
+    "vpn_proxy_channel_vpn_proxy_channel",
+    "vmesskhodam",
+    "library98",
+    "mitivpnbot",
+    "yesok42v2",
+    "v2tr",
+    "serve_excellent",
+    "avtxr76qwuvvgavtafstyshsv",
+    "gozarnetsuportt",
+    "v2rayir1",
+    "vpnbaaz",
+    "scan",
+    "sca11",
+    "sca12",
+    "clash2",
+    "net2ray",
+    "connect",
+    "o685y",
+    "conmectbashbot",
+    "v2school",
+    "swapnetrobot",
+    "proxymelimon",
+    "hope_net"
   ],
   "rejected_channels": [
     "lava",
@@ -4301,7 +4391,44 @@
     "idnoid",
     "irmartin",
     "martinir98bot",
-    "kuruish"
+    "kuruish",
+    "redirect",
+    "fsxtl1",
+    "creativecommons",
+    "ads27279",
+    "library98info",
+    "german4",
+    "sad24",
+    "curt232",
+    "dark",
+    "imgur",
+    "cfcdn",
+    "cold",
+    "appsooner",
+    "vipde5",
+    "turkey2",
+    "broad",
+    "shab",
+    "fishlab",
+    "zula",
+    "hello",
+    "amirqrbani",
+    "sonau",
+    "laptop",
+    "library98usedbooks",
+    "irapple",
+    "crypto",
+    "esti",
+    "d0f7fax",
+    "8a2e72t",
+    "jize",
+    "support",
+    "musketries",
+    "it_fouri",
+    "sca34",
+    "series",
+    "adsitobot",
+    "baicai_dev"
   ],
   "visited_urls": [
     "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/sub.txt",
@@ -4524,13 +4651,13 @@
     },
     "configshub": {
       "handle": "configshub",
-      "last_checked": 1795000119,
-      "last_nodes_yield": 30,
-      "total_nodes_yield": 135,
-      "checks_count": 6,
+      "last_checked": 1795524544,
+      "last_nodes_yield": 20,
+      "total_nodes_yield": 155,
+      "checks_count": 7,
       "is_active": true,
       "sub_url": "https://t.me/s/configshub",
-      "oldest_post_id": 2229681
+      "oldest_post_id": 2229661
     },
     "configshub2": {
       "handle": "configshub2",
@@ -4651,13 +4778,13 @@
     },
     "freev2rays": {
       "handle": "freev2rays",
-      "last_checked": 1795000119,
+      "last_checked": 1795524545,
       "last_nodes_yield": 20,
-      "total_nodes_yield": 120,
-      "checks_count": 6,
+      "total_nodes_yield": 140,
+      "checks_count": 7,
       "is_active": true,
       "sub_url": "https://t.me/s/freev2rays",
-      "oldest_post_id": 113749
+      "oldest_post_id": 113729
     },
     "kingpinggp": {
       "handle": "kingpinggp",
@@ -4697,13 +4824,13 @@
     },
     "v2rayngvpn": {
       "handle": "v2rayngvpn",
-      "last_checked": 1795000278,
-      "last_nodes_yield": 68,
-      "total_nodes_yield": 495,
-      "checks_count": 6,
+      "last_checked": 1795525592,
+      "last_nodes_yield": 48,
+      "total_nodes_yield": 543,
+      "checks_count": 7,
       "is_active": true,
       "sub_url": "https://t.me/s/v2rayngvpn",
-      "oldest_post_id": 32992
+      "oldest_post_id": 32968
     },
     "kingpingsup": {
       "handle": "kingpingsup",
@@ -4788,20 +4915,20 @@
     },
     "v2ray_outlineir": {
       "handle": "v2ray_outlineir",
-      "last_checked": 1795000330,
-      "last_nodes_yield": 28,
-      "total_nodes_yield": 166,
-      "checks_count": 6,
+      "last_checked": 1795525632,
+      "last_nodes_yield": 29,
+      "total_nodes_yield": 195,
+      "checks_count": 7,
       "is_active": true,
       "sub_url": "https://t.me/s/v2ray_outlineir",
-      "oldest_post_id": 3065
+      "oldest_post_id": 3045
     },
     "v2rayng_config": {
       "handle": "v2rayng_config",
-      "last_checked": 1795171164,
+      "last_checked": 1795525801,
       "last_nodes_yield": 1,
-      "total_nodes_yield": 6,
-      "checks_count": 6,
+      "total_nodes_yield": 7,
+      "checks_count": 7,
       "is_active": true,
       "sub_url": "https://t.me/s/v2rayng_config",
       "oldest_post_id": 1
@@ -4828,13 +4955,13 @@
     },
     "v2ray_collector": {
       "handle": "v2ray_collector",
-      "last_checked": 1795000110,
-      "last_nodes_yield": 52,
-      "total_nodes_yield": 264,
-      "checks_count": 5,
+      "last_checked": 1795524530,
+      "last_nodes_yield": 53,
+      "total_nodes_yield": 317,
+      "checks_count": 6,
       "is_active": true,
       "sub_url": "https://t.me/s/v2ray_collector",
-      "oldest_post_id": 1627
+      "oldest_post_id": 1607
     },
     "v2rayngn": {
       "handle": "v2rayngn",
@@ -5978,13 +6105,13 @@
     },
     "proxyarc": {
       "handle": "proxyarc",
-      "last_checked": 1795171253,
+      "last_checked": 1795526475,
       "last_nodes_yield": 1,
-      "total_nodes_yield": 42,
-      "checks_count": 4,
+      "total_nodes_yield": 43,
+      "checks_count": 5,
       "is_active": true,
       "sub_url": "https://t.me/s/proxyarc",
-      "oldest_post_id": 2110
+      "oldest_post_id": 2039
     },
     "proxy_arc": {
       "handle": "proxy_arc",
@@ -6089,13 +6216,13 @@
     },
     "xsfilterrnet": {
       "handle": "xsfilterrnet",
-      "last_checked": 1795171298,
-      "last_nodes_yield": 389,
+      "last_checked": 1795526643,
+      "last_nodes_yield": 0,
       "total_nodes_yield": 497,
-      "checks_count": 4,
-      "is_active": true,
+      "checks_count": 5,
+      "is_active": false,
       "sub_url": "https://t.me/s/xsfilterrnet",
-      "oldest_post_id": 3420
+      "oldest_post_id": 3343
     },
     "whitednsadmin": {
       "handle": "whitednsadmin",
@@ -6154,13 +6281,13 @@
     },
     "v2rayng_fast": {
       "handle": "v2rayng_fast",
-      "last_checked": 1795171620,
-      "last_nodes_yield": 39,
-      "total_nodes_yield": 129,
-      "checks_count": 4,
+      "last_checked": 1795526817,
+      "last_nodes_yield": 36,
+      "total_nodes_yield": 165,
+      "checks_count": 5,
       "is_active": true,
       "sub_url": "https://t.me/s/v2rayng_fast",
-      "oldest_post_id": 26745
+      "oldest_post_id": 26725
     },
     "internetforiran": {
       "handle": "internetforiran",
@@ -6345,13 +6472,13 @@
     },
     "persianvpnhub": {
       "handle": "persianvpnhub",
-      "last_checked": 1795257461,
-      "last_nodes_yield": 20,
-      "total_nodes_yield": 93,
-      "checks_count": 4,
+      "last_checked": 1795526933,
+      "last_nodes_yield": 37,
+      "total_nodes_yield": 130,
+      "checks_count": 5,
       "is_active": true,
       "sub_url": "https://t.me/s/persianvpnhub",
-      "oldest_post_id": 68717
+      "oldest_post_id": 68657
     },
     "yebekhevpnbot": {
       "handle": "yebekhevpnbot",
@@ -11694,13 +11821,13 @@
     },
     "iranshield": {
       "handle": "iranshield",
-      "last_checked": 1794914064,
-      "last_nodes_yield": 2,
+      "last_checked": 1795523229,
+      "last_nodes_yield": 0,
       "total_nodes_yield": 2,
-      "checks_count": 1,
-      "is_active": true,
+      "checks_count": 2,
+      "is_active": false,
       "sub_url": "https://t.me/s/iranshield",
-      "oldest_post_id": 317
+      "oldest_post_id": 1
     },
     "gollevpn": {
       "handle": "gollevpn",
@@ -11771,13 +11898,13 @@
     },
     "father_vpn": {
       "handle": "father_vpn",
-      "last_checked": 1794914291,
-      "last_nodes_yield": 118,
-      "total_nodes_yield": 118,
-      "checks_count": 1,
+      "last_checked": 1795523310,
+      "last_nodes_yield": 73,
+      "total_nodes_yield": 191,
+      "checks_count": 2,
       "is_active": true,
       "sub_url": "https://t.me/s/father_vpn",
-      "oldest_post_id": 1221
+      "oldest_post_id": 1186
     },
     "star_vpn_g": {
       "handle": "star_vpn_g",
@@ -12074,13 +12201,13 @@
     },
     "gozarnetir": {
       "handle": "gozarnetir",
-      "last_checked": 1794915242,
-      "last_nodes_yield": 3,
+      "last_checked": 1795523396,
+      "last_nodes_yield": 0,
       "total_nodes_yield": 3,
-      "checks_count": 1,
-      "is_active": true,
+      "checks_count": 2,
+      "is_active": false,
       "sub_url": "https://t.me/s/gozarnetir",
-      "oldest_post_id": 2700
+      "oldest_post_id": 2590
     },
     "haj_vpn_mybot": {
       "handle": "haj_vpn_mybot",
@@ -12252,13 +12379,13 @@
     },
     "hopevpn_help": {
       "handle": "hopevpn_help",
-      "last_checked": 1794995876,
-      "last_nodes_yield": 34,
+      "last_checked": 1795523477,
+      "last_nodes_yield": 0,
       "total_nodes_yield": 34,
-      "checks_count": 1,
-      "is_active": true,
+      "checks_count": 2,
+      "is_active": false,
       "sub_url": "https://t.me/s/hopevpn_help",
-      "oldest_post_id": 4965
+      "oldest_post_id": 4868
     },
     "meli_proxyy": {
       "handle": "meli_proxyy",
@@ -12329,13 +12456,13 @@
     },
     "v2raybaaz": {
       "handle": "v2raybaaz",
-      "last_checked": 1794996046,
-      "last_nodes_yield": 69,
-      "total_nodes_yield": 69,
-      "checks_count": 1,
+      "last_checked": 1795523500,
+      "last_nodes_yield": 73,
+      "total_nodes_yield": 142,
+      "checks_count": 2,
       "is_active": true,
       "sub_url": "https://t.me/s/v2raybaaz",
-      "oldest_post_id": 6530
+      "oldest_post_id": 6510
     },
     "gozatnetir": {
       "handle": "gozatnetir",
@@ -12537,13 +12664,13 @@
     },
     "vpnbaz": {
       "handle": "vpnbaz",
-      "last_checked": 1794997181,
-      "last_nodes_yield": 29,
-      "total_nodes_yield": 29,
-      "checks_count": 1,
+      "last_checked": 1795524391,
+      "last_nodes_yield": 35,
+      "total_nodes_yield": 64,
+      "checks_count": 2,
       "is_active": true,
       "sub_url": "https://t.me/s/vpnbaz",
-      "oldest_post_id": 24514
+      "oldest_post_id": 24468
     },
     "vpnsupportgroup": {
       "handle": "vpnsupportgroup",
@@ -12621,13 +12748,13 @@
     },
     "anty_filter": {
       "handle": "anty_filter",
-      "last_checked": 1794997678,
-      "last_nodes_yield": 29,
-      "total_nodes_yield": 29,
-      "checks_count": 1,
+      "last_checked": 1795524509,
+      "last_nodes_yield": 35,
+      "total_nodes_yield": 64,
+      "checks_count": 2,
       "is_active": true,
       "sub_url": "https://t.me/s/anty_filter",
-      "oldest_post_id": 24514
+      "oldest_post_id": 24468
     },
     "v2shup_bot": {
       "handle": "v2shup_bot",
@@ -13020,13 +13147,13 @@
     },
     "connectbash": {
       "handle": "connectbash",
-      "last_checked": 1795083496,
-      "last_nodes_yield": 1,
-      "total_nodes_yield": 1,
-      "checks_count": 1,
+      "last_checked": 1795525769,
+      "last_nodes_yield": 2,
+      "total_nodes_yield": 3,
+      "checks_count": 2,
       "is_active": true,
       "sub_url": "https://t.me/s/connectbash",
-      "oldest_post_id": 3839
+      "oldest_post_id": 3772
     },
     "vpnfandk": {
       "handle": "vpnfandk",
@@ -13088,13 +13215,13 @@
     },
     "v2box": {
       "handle": "v2box",
-      "last_checked": 1795084068,
-      "last_nodes_yield": 25,
-      "total_nodes_yield": 25,
-      "checks_count": 1,
+      "last_checked": 1795525800,
+      "last_nodes_yield": 31,
+      "total_nodes_yield": 56,
+      "checks_count": 2,
       "is_active": true,
       "sub_url": "https://t.me/s/v2box",
-      "oldest_post_id": 2075
+      "oldest_post_id": 2055
     },
     "confinghaji": {
       "handle": "confinghaji",
@@ -14076,13 +14203,13 @@
     },
     "unblocked_ir": {
       "handle": "unblocked_ir",
-      "last_checked": 1795256427,
-      "last_nodes_yield": 31,
-      "total_nodes_yield": 31,
-      "checks_count": 1,
+      "last_checked": 1795526842,
+      "last_nodes_yield": 53,
+      "total_nodes_yield": 84,
+      "checks_count": 2,
       "is_active": true,
       "sub_url": "https://t.me/s/unblocked_ir",
-      "oldest_post_id": 1202
+      "oldest_post_id": 1178
     },
     "panelsaze": {
       "handle": "panelsaze",
@@ -14707,8 +14834,243 @@
       "checks_count": 1,
       "is_active": false,
       "sub_url": "https://t.me/s/decdnetwork"
+    },
+    "mohivpn": {
+      "handle": "mohivpn",
+      "last_checked": 1795522267,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/mohivpn",
+      "oldest_post_id": 1
+    },
+    "mitivpn": {
+      "handle": "mitivpn",
+      "last_checked": 1795522296,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/mitivpn",
+      "oldest_post_id": 18011
+    },
+    "vpn_proxy_channel_vpn_proxy_channel": {
+      "handle": "vpn_proxy_channel_vpn_proxy_channel",
+      "last_checked": 1795522306,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/vpn_proxy_channel_vpn_proxy_channel"
+    },
+    "vmesskhodam": {
+      "handle": "vmesskhodam",
+      "last_checked": 1795522361,
+      "last_nodes_yield": 84,
+      "total_nodes_yield": 84,
+      "checks_count": 1,
+      "is_active": true,
+      "sub_url": "https://t.me/s/vmesskhodam",
+      "oldest_post_id": 10991
+    },
+    "library98": {
+      "handle": "library98",
+      "last_checked": 1795522484,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/library98",
+      "oldest_post_id": 673
+    },
+    "mitivpnbot": {
+      "handle": "mitivpnbot",
+      "last_checked": 1795522660,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/mitivpnbot"
+    },
+    "yesok42v2": {
+      "handle": "yesok42v2",
+      "last_checked": 1795522661,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/yesok42v2"
+    },
+    "v2tr": {
+      "handle": "v2tr",
+      "last_checked": 1795522810,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/v2tr"
+    },
+    "serve_excellent": {
+      "handle": "serve_excellent",
+      "last_checked": 1795522985,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/serve_excellent",
+      "oldest_post_id": 2356
+    },
+    "avtxr76qwuvvgavtafstyshsv": {
+      "handle": "avtxr76qwuvvgavtafstyshsv",
+      "last_checked": 1795522986,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/avtxr76qwuvvgavtafstyshsv"
+    },
+    "gozarnetsuportt": {
+      "handle": "gozarnetsuportt",
+      "last_checked": 1795523970,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/gozarnetsuportt"
+    },
+    "v2rayir1": {
+      "handle": "v2rayir1",
+      "last_checked": 1795523990,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/v2rayir1",
+      "oldest_post_id": 1
+    },
+    "vpnbaaz": {
+      "handle": "vpnbaaz",
+      "last_checked": 1795523991,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/vpnbaaz"
+    },
+    "scan": {
+      "handle": "scan",
+      "last_checked": 1795524064,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/scan"
+    },
+    "sca11": {
+      "handle": "sca11",
+      "last_checked": 1795524065,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/sca11"
+    },
+    "sca12": {
+      "handle": "sca12",
+      "last_checked": 1795524066,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/sca12"
+    },
+    "clash2": {
+      "handle": "clash2",
+      "last_checked": 1795524714,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/clash2"
+    },
+    "net2ray": {
+      "handle": "net2ray",
+      "last_checked": 1795524823,
+      "last_nodes_yield": 45,
+      "total_nodes_yield": 45,
+      "checks_count": 1,
+      "is_active": true,
+      "sub_url": "https://t.me/s/net2ray",
+      "oldest_post_id": 1583
+    },
+    "connect": {
+      "handle": "connect",
+      "last_checked": 1795524823,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/connect"
+    },
+    "o685y": {
+      "handle": "o685y",
+      "last_checked": 1795524990,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/o685y"
+    },
+    "conmectbashbot": {
+      "handle": "conmectbashbot",
+      "last_checked": 1795525950,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/conmectbashbot"
+    },
+    "v2school": {
+      "handle": "v2school",
+      "last_checked": 1795526049,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/v2school",
+      "oldest_post_id": 1
+    },
+    "swapnetrobot": {
+      "handle": "swapnetrobot",
+      "last_checked": 1795526242,
+      "last_nodes_yield": 0,
+      "total_nodes_yield": 0,
+      "checks_count": 1,
+      "is_active": false,
+      "sub_url": "https://t.me/s/swapnetrobot"
+    },
+    "proxymelimon": {
+      "handle": "proxymelimon",
+      "last_checked": 1795527130,
+      "last_nodes_yield": 20,
+      "total_nodes_yield": 20,
+      "checks_count": 1,
+      "is_active": true,
+      "sub_url": "https://t.me/s/proxymelimon",
+      "oldest_post_id": 21870
+    },
+    "hope_net": {
+      "handle": "hope_net",
+      "last_checked": 1795527164,
+      "last_nodes_yield": 80,
+      "total_nodes_yield": 80,
+      "checks_count": 1,
+      "is_active": true,
+      "sub_url": "https://t.me/s/hope_net",
+      "oldest_post_id": 94291
     }
   },
-  "last_run_api_requests": 230,
-  "total_api_requests": 4117
+  "last_run_api_requests": 242,
+  "total_api_requests": 4359
 }
