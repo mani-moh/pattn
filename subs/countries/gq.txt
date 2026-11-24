@@ -2,6 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
+trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq#[🇬🇶 GQ] Trojan | src:matinghanbari-all
 vless://1c3e580a-bd02-4bdb-9bfe-349903422037@uciran.wallerman-come.gq:58465?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#[🇬🇶 GQ] VLESS | src:heliataromi-confighub-mixed
 vless://1c3e580a-bd02-4bdb-9bfe-349903422037@uciran.wallerman-come.gq:58465?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇬🇶 GQ] VLESS-grpc | src:elf2017spring-configshub
 ss://1c3e580a-bd02-4bdb-9bfe-349903422037@uciran.wallerman-come.gq:58465?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#[🇬🇶 GQ] SS | src:solispirit-all
