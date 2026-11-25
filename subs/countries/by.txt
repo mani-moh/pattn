@@ -2,11 +2,11 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&host=178.172.227.228&path=/vless#[✅] [🇧🇾 BY] VLESS-ws | src:0xradikal-all | 144ms
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?path=/vless&security=none&encryption=none&host=178.172.227.124&type=ws#[✅] [🇧🇾 BY] VLESS-ws | src:0xradikal-all | 147ms
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp#[✅] [🇧🇾 BY] VLESS-tcp | src:0xradikal-all | 148ms
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#[✅] [🇧🇾 BY] VLESS-xhttp | src:0xradikal-all | 300ms
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?path=/vless&security=none&encryption=none&host=178.172.227.124&type=ws#[✅] [🇧🇾 BY] VLESS-ws | src:0xradikal-all | 176ms
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#[✅] [🇧🇾 BY] VLESS-xhttp | src:0xradikal-all | 402ms
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&host=178.172.227.228&path=/vless#[🇧🇾 BY] VLESS-ws | src:0xradikal-all
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?#[🇧🇾 BY] VLESS | src:ermaozi-get-subscribe
 vmess://eyJhZGQiOiAiNS4xNjEuMTU2LjE5NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogImludGVybmV0LmxpZmUuY29tLmJ5IiwgImlkIjogImQyMGUzOGVmLTFhNGQtNDAwOS1hMDBkLTJmMGQ0NGUzYzY1YSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJb8J+Hp/Cfh74gQlldIFZNZXNzLXRjcCB8IHNyYzppdHN5ZWJla2hlLXBzZy1taXgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?#[🇧🇾 BY] VLESS | src:barry-far-all
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp#[✅] [🇧🇾 BY] VLESS-tcp | src:0xradikal-all
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.wikihow.com&fp=chrome&security=reality&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&sid=#[🇧🇾 BY] VLESS-Reality | src:lalatinahub-mineral
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@by.cdn.titun.su:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=by.cdn.titun.su&fp=chrome&security=reality&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=cad317b20db4aad2#[🇧🇾 BY] VLESS-Reality | src:lalatinahub-mineral

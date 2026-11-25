@@ -2,13 +2,10 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp#[✅] [🇻🇳 VN] VLESS-tcp | src:0xradikal-all
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#[🇻🇳 VN] VLESS | src:barry-far-all
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@xvxn1hkzf.mateflora.com:443?allowInsecure=1&sni=xvxn1hkzf.mateflora.com#[🇻🇳 VN] Trojan | src:0xradikal-all
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@xvxn1hkzf.mateflora.com:443?security=tls&sni=xvxn1hkzf.mateflora.com&type=tcp&headerType=none#[🇻🇳 VN] Trojan-tcp | src:barry-far-all
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#[🇻🇳 VN] VLESS | src:0xradikal-all
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@xvxn1hkzf.mateflora.com:443?allowInsecure=1&sni=xvxn1hkzf.mateflora.com#[🇻🇳 VN] Trojan | src:ermaozi-get-subscribe
 vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?security=reality&encryption=none&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=99676967e6867063#[🇻🇳 VN] VLESS-Reality | src:0xradikal-all
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.238.213.96:989#[🇻🇳 VN] SS | src:farid-karimi-mixed-iran
-vless://c74a51bc-0e10-43e5-b6a8-9395c40f3f54@hsaia.connainho.lol:46074?sni=www.apple.com&flow=xtls-rprx-vision&fp=edge&security=tls#[🇻🇳 VN] VLESS | src:ermaozi-get-subscribe
 vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@103.173.155.212:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=b67c99c6s591.csgfw.top&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=u695099ub67c99c6s591.csgfw.top#[🇻🇳 VN] VLESS-tcp | src:free1zona-keyfreetee
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#[🇻🇳 VN] SS | src:elf2017spring-configshub
 vmess://eyJhZGQiOiAiMTAzLjI3LjIzOC4yMTQiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImVlNzZjZWNmLTEyMTktNDJiZS1hZTNmLTZiODA3N2U0Y2FjYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogIlvwn4e78J+HsyBWTl0gVk1lc3Mtd3MgfCBzcmM6bWF0aW5naGFuYmFyaS1hbGwiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiaGNtMS5zYWZlcG4ubmV0In0=
@@ -104,6 +101,7 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vmess://eyJhZGQiOiAiMTYwLjE5Ljc4LjIzNyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjUyN2M3YjItYWIzYS00YWVjLWEzZDEtOTQzNTEwMjBkZmY0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDI2MDM3LCAicHMiOiAiW/Cfh7vwn4ezIFZOXSBWTWVzcy13cyB8IHNyYzplbGYyMDE3c3ByaW5nLWNvbmZpZ3NodWIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#[🇻🇳 VN] SS | src:elf2017spring-configshub
 vless://f592a058-bfb6-447e-b849-fd169b65b301@kir4.crackerbinam.org:25272?encryption=none&fp=chrome&headerType=http&host=technolife.com&packetEncoding=xudp&path=/&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&security=reality&sid=f3a10622fe&sni=www.cloudflare.com&type=tcp#[🇻🇳 VN] VLESS-Reality | src:sub-42245810b7
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@103.163.24.22:56026?security=reality&sni=www.cloudflare.com&type=tcp&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063#[🇻🇳 VN] VLESS-Reality | src:sub-42245810b7
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.11:38388#[🇻🇳 VN] SS | src:lalatinahub-mineral
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.12:38388#[🇻🇳 VN] SS | src:lalatinahub-mineral
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.139:38388#[🇻🇳 VN] SS | src:lalatinahub-mineral

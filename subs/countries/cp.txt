@@ -89,6 +89,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.140.219:22222?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.145.161:22222?encryption=none&security=none&type=tcp#[🇨🇵 CP] VLESS-tcp | src:lalatinahub-mineral
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.158.254:22222?encryption=none&security=none&type=tcp#[🇨🇵 CP] VLESS-tcp | src:lalatinahub-mineral
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.233.144:22222?encryption=none&security=none&type=tcp#[🇨🇵 CP] VLESS-tcp | src:lalatinahub-mineral
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.233.226:22222?encryption=none&security=none&type=tcp#[🇨🇵 CP] VLESS-tcp | src:lalatinahub-mineral
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.242.227:22222?encryption=none&security=none&type=tcp#[🇨🇵 CP] VLESS-tcp | src:lalatinahub-mineral
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.62.190:22222?encryption=none&security=none&type=tcp#[🇨🇵 CP] VLESS-tcp | src:lalatinahub-mineral
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.77.118:22222?encryption=none&security=none&type=tcp#[🇨🇵 CP] VLESS-tcp | src:lalatinahub-mineral

@@ -1711,6 +1711,31 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "tg-hesarweb",
+      "name": "Telegram @hesarweb",
+      "url": "https://t.me/s/hesarweb",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-b578457bcd",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/SS",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
     }
   ]
 }
