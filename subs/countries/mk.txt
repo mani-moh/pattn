@@ -2,14 +2,11 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://0629a723-e9fd-460e-80fe-67e3149d9f64@89.19.223.101:443?type=xhttp&security=reality&fp=firefox&pbk=q51uDaJPRosFs1NJ73CnEBwwDsn5aT68rAlcMJJnHWY&sid=40560c91c3bb8cb6&sni=twitch.tv&path=%2F5bea7833b17ec72cdc30ff6d&mode=packet-up#[✅] [🇲🇰 MK] VLESS-Reality | src:luxxuria-speed-tested | 186ms
-vless://e5544327-834c-455a-9db5-2454c788fa17@217.60.55.103:443?encryption=none&security=reality&pbk=m904i3ti1GCWnFAkmb67LqEktV0dOZtkkmaG3I14djU&sid=c2b6208fdd8c783d&sni=mk1.static-s3.org&fp=chrome&type=tcp&flow=xtls-rprx-vision#[🇲🇰 MK] VLESS-Reality | src:sub-42245810b7
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@185.225.28.85:47121#[🇲🇰 MK] SS | src:farid-karimi-mixed-iran
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#[🇲🇰 MK] SS | src:farid-karimi-mixed-iran
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#[🇲🇰 MK] SS | src:elf2017spring-configshub
+vless://e5544327-834c-455a-9db5-2454c788fa17@217.60.55.103:443?encryption=none&security=reality&pbk=m904i3ti1GCWnFAkmb67LqEktV0dOZtkkmaG3I14djU&sid=c2b6208fdd8c783d&sni=mk1.static-s3.org&fp=chrome&type=tcp&flow=xtls-rprx-vision#[🇲🇰 MK] VLESS-Reality | src:sub-42245810b7
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@46.183.185.15:989#[🇲🇰 MK] SS | src:sub-07d2577deb
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@46.183.185.37:989#[🇲🇰 MK] SS | src:sub-07d2577deb
+vless://7803bad0-403e-4ccc-bd7c-47db51eb674e@31.59.83.169:3733?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=mk33.static-s3.org&fp=firefox&pbk=veP90lsgoCpsTh5CaTDd1JiddLomQRXH2zLAvxbCQCE&sid=f278e27b06a2fd1c&spx=%2F&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delays%22%3A%5B%220%22%2C%220%22%5D%2C%22length%22%3A%22256%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%222%22%7D%7D%5D%7D#[🇲🇰 MK] VLESS-Reality | src:sub-660b258b53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#[🇲🇰 MK] SS | src:elf2017spring-configshub
-vless://0629a723-e9fd-460e-80fe-67e3149d9f64@188.114.98.0:443?type=xhttp&security=tls&fp=unsafe&sni=twitch.tv&path=%2F5bea7833b17ec72cdc30ff6d&mode=packet-up&host=twitch.tv&cs=TLS_AES_128_GCM_SHA256%3ATLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3AECDHE-ECDSA-AES128-GCM-SHA256%3AECDHE-RSA-AES128-GCM-SHA256&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%2210-20%22%2C%22delay%22%3A%2210-20%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22length%22%3A%221-3%22%2C%22delay%22%3A%225%22%7D%7D%5D%7D#[✅] [🇲🇰 MK] VLESS-xhttp [PattN F&F] | src:luxxuria-speed-tested
-vless://0629a723-e9fd-460e-80fe-67e3149d9f64@[2a06:98c1:3120::7]:443?type=xhttp&security=tls&fp=hellochrome_120&sni=twitch.tv&path=%2F5bea7833b17ec72cdc30ff6d&mode=packet-up&host=twitch.tv&dialMode=oob.0#[✅] [🇲🇰 MK] VLESS-xhttp [PattN IPv6-OOB] | src:luxxuria-speed-tested
-vless://0629a723-e9fd-460e-80fe-67e3149d9f64@127.0.0.1:40443?type=xhttp&security=tls&fp=chrome&sni=twitch.tv&path=%2F5bea7833b17ec72cdc30ff6d&mode=packet-up&host=twitch.tv#[✅] [🇲🇰 MK] VLESS-xhttp [PattN SNI-Spoof] | src:luxxuria-speed-tested
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#[🇲🇰 MK] SS | src:elf2017spring-configshub
