@@ -17,7 +17,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.138.168:22222?encryption=non
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.103.0:22222?encryption=none&security=none&type=tcp#[🇨🇵 CP] VLESS-tcp | src:farid-karimi-vless-iran
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.11.154:22222?encryption=none&security=none&type=tcp#[🇨🇵 CP] VLESS-tcp | src:farid-karimi-vless-iran
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.206.2:22222?encryption=none&security=none&type=tcp#[🇨🇵 CP] VLESS-tcp | src:farid-karimi-vless-iran
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#[🇨🇵 CP] VLESS-grpc | src:0xradikal-all
 trojan://02XtoczO7V@creativecommons.org:443?path=/hishhhh123&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#[🇨🇵 CP] Trojan-ws | src:elf2017spring-configshub
 vless://160cc7e0-1e01-44e8-71fd-b162fbb1c83e@record.persianmizban.com:443?path=/&security=tls&encryption=none&host=lgoin.persianmizban.com&type=ws&sni=lgoin.persianmizban.com#[🇨🇵 CP] VLESS-ws | src:elf2017spring-configshub
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&type=ws#[🇨🇵 CP] VLESS-ws | src:elf2017spring-configshub
