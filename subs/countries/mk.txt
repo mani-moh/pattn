@@ -5,10 +5,7 @@
 vless://e5544327-834c-455a-9db5-2454c788fa17@217.60.55.103:443?encryption=none&security=reality&pbk=m904i3ti1GCWnFAkmb67LqEktV0dOZtkkmaG3I14djU&sid=c2b6208fdd8c783d&sni=mk1.static-s3.org&fp=chrome&type=tcp&flow=xtls-rprx-vision#[🇲🇰 MK] VLESS-Reality | src:sub-42245810b7
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@185.225.28.85:47121#[🇲🇰 MK] SS | src:farid-karimi-mixed-iran
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#[🇲🇰 MK] SS | src:farid-karimi-mixed-iran
-vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:2083?security=reality&sni=dl.google.com&pbk=u-PLvejUQP1XrpSVzm8UffpwNV-RnD1EHmOoc5Yjmmg&sid=e729b9c5&type=grpc&serviceName=cas-mk&fp=chrome#[🇲🇰 MK] VLESS-Reality | src:ewecrow78-whitelist1
-vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:2053?security=reality&sni=archive.saltmarsh-photo.de&pbk=I-LRS0mhykpv0oY8ZnIWj0uONcMSWoGh7dMz8rUKzkk&sid=ffe973fc&type=grpc&serviceName=cas-mk&fp=qq#[🇲🇰 MK] VLESS-Reality | src:ewecrow78-whitelist1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@46.183.185.15:989#[🇲🇰 MK] SS | src:sub-07d2577deb
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@46.183.185.37:989#[🇲🇰 MK] SS | src:sub-07d2577deb
-vless://7803bad0-403e-4ccc-bd7c-47db51eb674e@31.59.83.169:3733?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=mk33.static-s3.org&fp=firefox&pbk=veP90lsgoCpsTh5CaTDd1JiddLomQRXH2zLAvxbCQCE&sid=f278e27b06a2fd1c&spx=%2F&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delays%22%3A%5B%220%22%2C%220%22%5D%2C%22length%22%3A%22256%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%222%22%7D%7D%5D%7D#[🇲🇰 MK] VLESS-Reality | src:sub-660b258b53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#[🇲🇰 MK] SS | src:elf2017spring-configshub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#[🇲🇰 MK] SS | src:elf2017spring-configshub
