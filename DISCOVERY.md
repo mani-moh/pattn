@@ -3,8 +3,8 @@
 > Real-time ranking of auto-discovered proxy feeds, Telegram channels, and aggregators
 > *Updated automatically by PattN Autonomous Agent (powered by NVIDIA NIM Frontier AI: Kimi K2.6 / Mistral Large 4 / Nemotron)*
 
-**Last Sync:** `2026-11-26 12:02:07 UTC`  
-**Total Channels Scanned:** `1157` | **Pending Queue:** `2` | **Active Discovered Feeds:** `82` | **Current Node Yield:** `10989`
+**Last Sync:** `2026-11-27 11:53:32 UTC`  
+**Total Channels Scanned:** `1182` | **Pending Queue:** `7` | **Active Discovered Feeds:** `83` | **Current Node Yield:** `10901`
 
 ## 🏆 Top Discovered Channels & Subscription Feeds
 
@@ -37,13 +37,13 @@
 | 25 | `web:https://molido-sub.hidooch980.wo` | **91** | 2 | [Open Feed](https://molido-sub.hidooch980.workers.dev/sub/5) | 🟢 Active |
 | 26 | `@tootffarangi` | **90** | 3 | [Open Feed](https://t.me/s/tootffarangi) | 🟢 Active |
 | 27 | `@vpnine1` | **86** | 4 | [Open Feed](https://t.me/s/vpnine1) | 🟢 Active |
-| 28 | `@vmesskhodam` | **84** | 1 | [Open Feed](https://t.me/s/vmesskhodam) | 🟢 Active |
-| 29 | `@givevpn` | **82** | 4 | [Open Feed](https://t.me/s/givevpn) | 🟢 Active |
-| 30 | `@vpn_click` | **82** | 4 | [Open Feed](https://t.me/s/vpn_click) | 🟢 Active |
+| 28 | `@givevpn` | **82** | 4 | [Open Feed](https://t.me/s/givevpn) | 🟢 Active |
+| 29 | `@vpn_click` | **82** | 4 | [Open Feed](https://t.me/s/vpn_click) | 🟢 Active |
+| 30 | `@hope_net` | **80** | 1 | [Open Feed](https://t.me/s/hope_net) | 🟢 Active |
 
 ## 🧭 Discovery Queue & Exploration Horizon
 
-- Channels waiting for deep-inspection in next cycle: **2**
+- Channels waiting for deep-inspection in next cycle: **7**
 - Unique query patterns synthesized: **164**
 - NVIDIA Nemotron API calls (last run / cumulative): **206** / **4811**
 

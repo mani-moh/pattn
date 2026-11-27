@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://6972bdba-42a2-4b5c-8250-ef75f01a933d@94.183.195.206:20082?security=reality&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu124.cdn77.icu#[✅] [🇪🇬 EG] VLESS-Reality | src:ewecrow78-whitelist1
+vless://6972bdba-42a2-4b5c-8250-ef75f01a933d@94.183.195.206:20082?security=reality&sni=eu124.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=android#[🇪🇬 EG] VLESS-Reality | src:ewecrow78-whitelist1
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.186:2053?security=tls&fp=chrome&flow=xtls-rprx-vision&sni=ekb.eg&type=tcp&allowInsecure=1&insecure=1#[🇪🇬 EG] VLESS-tcp | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.59.107:990#[🇪🇬 EG] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11201#[🇪🇬 EG] SS | src:sub-07d2577deb
@@ -11,5 +11,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11203#[�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11204#[🇪🇬 EG] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11205#[🇪🇬 EG] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#[🇪🇬 EG] SS | src:lalatinahub-mineral
+vmess://eyJhZGQiOiAiMTU5LjIyMy4xMy4xMDkiLCAiYWlkIjogIjAiLCAiaWQiOiAiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6ICIxMjM0IiwgInBzIjogIlvwn4eq8J+HrCBFR10gVk1lc3MtdGNwIHwgc3JjOjB4cmFkaWthbC1hbGwiLCAic2N5IjogImFlcy0xMjgtZ2NtIiwgInNuaSI6ICJla2IuZWciLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+vmess://eyJhZGQiOiAiMTkyLjc0LjIzNi4xNDgiLCAiYWlkIjogIjY0IiwgImhvc3QiOiAid3d3LjkxMzM0NTY1Lnh5eiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTczMzQ3Nzc4MzcwNSIsICJwb3J0IjogIjMwMDA0IiwgInBzIjogIlvwn4eq8J+HrCBFR10gVk1lc3Mtd3MgfCBzcmM6MHhyYWRpa2FsLWFsbCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZWtiLmVnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?sni=ekb.eg&flow=xtls-rprx-vision&fp=firefox&security=tls#[🇪🇬 EG] VLESS | src:leon406-subcrawler-vless
 vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?path=%2Fpai50288&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ccs2g.pai50288.uk#[🇪🇬 EG] VLESS-ws | src:tg-filtershekan_channel

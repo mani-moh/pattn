@@ -1809,6 +1809,19 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "tg-vipv2rayngnp",
+      "name": "Telegram @vipv2rayngnp",
+      "url": "https://t.me/s/vipv2rayngnp",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }
