@@ -4,6 +4,8 @@
 
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@185.225.28.85:47121#[🇲🇰 MK] SS | src:farid-karimi-mixed-iran
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#[🇲🇰 MK] SS | src:farid-karimi-mixed-iran
+vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@94.231.221.49:2083?security=reality&sni=dl.google.com&pbk=u-PLvejUQP1XrpSVzm8UffpwNV-RnD1EHmOoc5Yjmmg&sid=e729b9c5&type=grpc&serviceName=cas-mk&fp=chrome#[🇲🇰 MK] VLESS-Reality | src:ewecrow78-whitelist1
+vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:2053?security=reality&sni=archive.saltmarsh-photo.de&pbk=I-LRS0mhykpv0oY8ZnIWj0uONcMSWoGh7dMz8rUKzkk&sid=ffe973fc&type=grpc&serviceName=cas-mk&fp=qq#[🇲🇰 MK] VLESS-Reality | src:ewecrow78-whitelist1
 vless://e5544327-834c-455a-9db5-2454c788fa17@217.60.55.103:443?encryption=none&security=reality&pbk=m904i3ti1GCWnFAkmb67LqEktV0dOZtkkmaG3I14djU&sid=c2b6208fdd8c783d&sni=mk1.static-s3.org&fp=chrome&type=tcp&flow=xtls-rprx-vision#[🇲🇰 MK] VLESS-Reality | src:sub-42245810b7
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@46.183.185.15:989#[🇲🇰 MK] SS | src:sub-07d2577deb
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%3D%3D@46.183.185.37:989#[🇲🇰 MK] SS | src:sub-07d2577deb

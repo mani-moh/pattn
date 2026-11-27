@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
 vmess://eyJhZGQiOiAiMTg1LjQ4LjEzNi4xNTAiLCAiYWlkIjogMCwgImhvc3QiOiAic2F6Z2FyMjIuemFwdG8ub3JnIiwgImlkIjogIjE0YmI5MjdmLWE0ZWMtNGRlNy05MGZiLTM4OGMxZjY5ZGJjMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJb8J+HsPCfh6wgS0ddIFZNZXNzLXdzIHwgc3JjOm1haGFua2Vud2F5LWZyZWVkb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vless://13ba9154-0ace-443b-b38a-5349031d4e1d@188.114.96.6:443?path=/---------DisVpn---------DisVpn---------DisVpn&security=tls&encryption=none&alpn=h2,http/1.1&host=DisVpn.us.kg&fp=randomized&type=ws&sni=DisVpn.us.kg#[🇰🇬 KG] VLESS-ws | src:0xradikal-all
 trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#[🇰🇬 KG] Trojan-ws | src:0xradikal-all
 trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#[🇰🇬 KG] Trojan-ws | src:0xradikal-all
 trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#[🇰🇬 KG] Trojan-ws | src:0xradikal-all
@@ -93,7 +94,12 @@ vless://55c7ffb4-8765-4547-9be8-e3e556b88e49@162.159.152.4:443?security=tls&sni=
 vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.145.140:443?encryption=none&security=tls&sni=g1.youyuan.us.kg&type=ws&host=g1.youyuan.us.kg&path=%2F#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
 vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.88.78:443?encryption=none&security=tls&sni=g1.youyuan.us.kg&type=ws&host=g1.youyuan.us.kg&path=%2F#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
 vless://5e90bbb0-4880-419f-99a4-8ba3648f880e@lake.next.nx.kg:2041?security=&encryption=mlkem768x25519plus.random.0rtt.5TsQef1M4OsXkGx5TqJ9W-ul464KCTuQ3ui4l84phHg&host=lake.next.nx.kg&headerType=http&type=tcp#[🇰🇬 KG] VLESS-tcp | src:leon406-subcrawler-vless
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.127:443?encryption=none&security=tls&sni=lp.ylks.us.kg&type=ws&host=lp.ylks.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.205:443?encryption=none&security=tls&sni=lp.ylks.us.kg&type=ws&host=lp.ylks.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?&security=tls&sni=vbbc.ylks2024.us.kg&type=ws&headerType=none&host=vbbc.ylks2024.us.kg&path=%2Fyoulingkaishi#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.134:443?encryption=none&security=tls&sni=lp.ylks.us.kg&type=ws&host=lp.ylks.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.70:443?encryption=none&security=tls&sni=lp.ylks.us.kg&type=ws&host=lp.ylks.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.52:443?encryption=none&security=tls&sni=lp.ylka.us.kg&type=ws&host=lp.ylka.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.102:443?encryption=none&security=tls&sni=lp.ylka.us.kg&type=ws&host=lp.ylka.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.208:443?encryption=none&security=tls&sni=lp.ylks.us.kg&type=ws&host=lp.ylks.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.58:443?encryption=none&security=tls&sni=lp.ylks.us.kg&type=ws&host=lp.ylks.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
@@ -101,8 +107,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.177:443?encryption=none&s
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.14:443?encryption=none&security=tls&sni=lp.ylks.us.kg&type=ws&host=lp.ylks.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.75:443?encryption=none&security=tls&sni=lp.ylks.us.kg&type=ws&host=lp.ylks.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.53:443?encryption=none&security=tls&sni=lp.ylka.us.kg&type=ws&host=lp.ylka.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.127:443?encryption=none&security=tls&sni=lp.ylks.us.kg&type=ws&host=lp.ylks.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.205:443?encryption=none&security=tls&sni=lp.ylks.us.kg&type=ws&host=lp.ylks.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?&security=tls&sni=vbbc.ylks2024.us.kg&type=ws&headerType=none&host=vbbc.ylks2024.us.kg&path=%2Fyoulingkaishi#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.134:443?encryption=none&security=tls&sni=lp.ylks.us.kg&type=ws&host=lp.ylks.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.52:443?encryption=none&security=tls&sni=lp.ylka.us.kg&type=ws&host=lp.ylka.us.kg&path=%2F%3Fed%3D2560#[🇰🇬 KG] VLESS-ws | src:leon406-subcrawler-vless

@@ -2,10 +2,12 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?path=/vless&security=none&encryption=none&host=178.172.227.124&type=ws#[✅] [🇧🇾 BY] VLESS-ws | src:0xradikal-all | 118ms
-vmess://eyJhZGQiOiAiNS4xNjEuMTU2LjE5NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogImludGVybmV0LmxpZmUuY29tLmJ5IiwgImlkIjogImQyMGUzOGVmLTFhNGQtNDAwOS1hMDBkLTJmMGQ0NGUzYzY1YSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJb8J+Hp/Cfh74gQlldIFZNZXNzLXRjcCB8IHNyYzppdHN5ZWJla2hlLXBzZy1taXgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?path=/vless&security=none&encryption=none&host=178.172.227.124&type=ws#[✅] [🇧🇾 BY] VLESS-ws | src:0xradikal-all | 116ms
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?security=none&type=tcp#[✅] [🇧🇾 BY] VLESS-tcp | src:0xradikal-all | 118ms
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&host=178.172.227.228&path=/vless#[🇧🇾 BY] VLESS-ws | src:ermaozi-get-subscribe
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?#[🇧🇾 BY] VLESS | src:barry-far-all
+vmess://eyJhZGQiOiAiNS4xNjEuMTU2LjE5NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogImludGVybmV0LmxpZmUuY29tLmJ5IiwgImlkIjogImQyMGUzOGVmLTFhNGQtNDAwOS1hMDBkLTJmMGQ0NGUzYzY1YSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJb8J+Hp/Cfh74gQlldIFZNZXNzLXRjcCB8IHNyYzppdHN5ZWJla2hlLXBzZy1taXgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@185.86.155.67:443?type=grpc&security=reality&fp=edge&pbk=RaweMVVdvV09SzVRKSfSKqcAa_W0XwMC6o1gsDANwRw&sid=d9662905&sni=media-crown.ru&serviceName=%2Fgprc.BL%2F#[✅] [🇧🇾 BY] VLESS-Reality | src:luxxuria-speed-tested
 vless://517a34f4-bc72-4ac6-adac-cb8268a72372@fastby.dostavim.food:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fastby.dostavim.food&fp=firefox&pbk=cZ-oj84L5vfpD_kkybVOPtwMKSXn6lvY1QNyfvJBxEo&sid=c2ff3fbfe0f5c7d7&spx=%2F#[🇧🇾 BY] VLESS-Reality | src:sub-660b258b53
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.wikihow.com&fp=chrome&security=reality&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&sid=#[🇧🇾 BY] VLESS-Reality | src:lalatinahub-mineral
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@by.cdn.titun.su:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=by.cdn.titun.su&fp=chrome&security=reality&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=cad317b20db4aad2#[🇧🇾 BY] VLESS-Reality | src:lalatinahub-mineral

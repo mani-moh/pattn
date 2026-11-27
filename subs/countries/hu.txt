@@ -2,6 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
+vless://6972bdba-42a2-206c-8250-ef75f01a933d@94.183.195.206:20034?security=reality&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu124.cdn77.icu#[✅] [🇭🇺 HU] VLESS-Reality | src:ewecrow78-whitelist1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.130.160:989#[🇭🇺 HU] SS | src:farid-karimi-mixed-iran
 vmess://eyJhZGQiOiAiMTg1LjEyOC4yNi43MCIsICJhaWQiOiA2NCwgImhvc3QiOiAid3d3Ljk2NDM3NjU4Lnh5eiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTkxMDE5MDcyOTI3IiwgInBvcnQiOiA0NDMsICJwcyI6ICJb8J+HrfCfh7ogSFVdIFZNZXNzLXdzIHwgc3JjOm1haGFua2Vud2F5LWZyZWVkb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[🇭🇺 HU] Trojan-ws | src:0xradikal-all
@@ -12,6 +13,7 @@ vless://b5c74983-8400-4fb3-81a7-d5b3ab559537@217.13.104.148:443/?type=tcp&encryp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYmRjMDMzMTQ5MGJjNDMy@5.181.77.247:44748#[🇭🇺 HU] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.163.204.94:990#[🇭🇺 HU] SS | src:sub-07d2577deb
 vmess://eyJhZGQiOiAiNS4xODIuMzguMTI0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImNkbi56aWZmc3RhdGljLmNvbSIsICJpZCI6ICI1YzFiYjBmOS1hYWJlLTRlMmQtOWE1Zi0wM2M2MDBlYjI2MDciLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MDAwIiwgInBzIjogIlvwn4et8J+HuiBIVV0gVk1lc3MtdGNwIHwgc3JjOmVsZjIwMTdzcHJpbmctY29uZmlnc2h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
+vless://f418674e-f518-4318-8ff9-e10000000046@172.67.131.125:2083?&security=tls&fp=chrome&sni=smart-edge-424.arti98399-1905.workers.dev&type=ws&headerType=none&host=smart-edge-424.arti98399-1905.workers.dev&path=%2Fsync#[🇭🇺 HU] VLESS-ws | src:leon406-subcrawler-vless
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267/?type=raw&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#[🇭🇺 HU] VLESS-Reality | src:lalatinahub-mineral
 vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.49:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#[🇭🇺 HU] VLESS-Reality | src:lalatinahub-mineral
 vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@89.169.128.105:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#[🇭🇺 HU] VLESS-Reality | src:lalatinahub-mineral

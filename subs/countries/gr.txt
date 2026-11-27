@@ -2,12 +2,14 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&security=reality&sid=94acb54627612d43&sni=www.cloudflare.com&type=raw#[🇬🇷 GR] VLESS-Reality | src:ewecrow78-whitelist1
+vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&security=reality&sid=94acb54627612d43&sni=www.cloudflare.com&type=raw#[✅] [🇬🇷 GR] VLESS-Reality | src:0xradikal-all | 1158ms
+vless://6972bdba-42a2-4b5c-8250-ef75f01a933d@94.183.195.206:20031?security=reality&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu124.cdn77.icu#[✅] [🇬🇷 GR] VLESS-Reality | src:ewecrow78-whitelist1
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#[🇬🇷 GR] VLESS-ws | src:0xradikal-all
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#[🇬🇷 GR] VLESS | src:ermaozi-get-subscribe
 ss://YWVzLTI1Ni1nY206TkJWSG9hTmVsV1JlTEh5dQ@45.153.229.146:3030#[🇬🇷 GR] SS | src:farid-karimi-mixed-iran
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@194.150.167.52:47121#[🇬🇷 GR] SS | src:farid-karimi-mixed-iran
-vless://4777d90d-265b-4927-a0d1-63f36ed1421c@94.241.172.107:443?mode=packet-up&pcs=67fa1e374feaeb232157317d6ace682475cb1a826e0cf8657151a254681aed62&path=%2Fassets%2Fnl02%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=94.241.172.107#[🇬🇷 GR] VLESS-xhttp | src:0xradikal-all
+vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&sid=94acb54627612d43&type=tcp&headerType=none#[🇬🇷 GR] VLESS-Reality | src:barry-far-all
+vless://4777d90d-265b-4927-a0d1-63f36ed1421c@94.241.172.107:443?encryption=none&type=xhttp&security=tls&path=%2Fassets%2Fnl02%2F&mode=packet-up&sni=94.241.172.107&alpn=h2%2Chttp%2F1.1&fp=chrome#[🇬🇷 GR] VLESS-xhttp | src:0xradikal-all
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@leviko-gr9245.shopingggg.ir:443?security=reality&encryption=none&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=94acb54627612d43#[🇬🇷 GR] VLESS-Reality | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11201#[🇬🇷 GR] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11202#[🇬🇷 GR] SS | src:sub-07d2577deb

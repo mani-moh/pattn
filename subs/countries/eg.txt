@@ -2,6 +2,7 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
+vless://6972bdba-42a2-4b5c-8250-ef75f01a933d@94.183.195.206:20082?security=reality&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu124.cdn77.icu#[✅] [🇪🇬 EG] VLESS-Reality | src:ewecrow78-whitelist1
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@191.217.215.186:2053?security=tls&fp=chrome&flow=xtls-rprx-vision&sni=ekb.eg&type=tcp&allowInsecure=1&insecure=1#[🇪🇬 EG] VLESS-tcp | src:0xradikal-all
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.59.107:990#[🇪🇬 EG] SS | src:sub-07d2577deb
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11201#[🇪🇬 EG] SS | src:sub-07d2577deb
