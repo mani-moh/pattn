@@ -9,6 +9,5 @@ trojan://trojan@ip.sb:443/?type=ws&path=%2F%3Fed%3D2560%2F%3FJoin-sho--Telegram-
 trojan://trojan@ip.sb:8443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=fofang.pages.dev#[🇸🇧 SB] Trojan-ws | src:lalatinahub-mineral
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@ip.sb:443/?type=ws&encryption=none&flow=&host=vk.ylka.dpdns.org&path=%2F%3Fed%3D2560%26prot_type%3Dvless&security=tls&sni=vk.ylka.dpdns.org#[🇸🇧 SB] VLESS-ws | src:lalatinahub-mineral
 vless://d03d2ff3-0b28-4c6b-bab5-4bfac274aa91@ip.sb:8080/?type=ws&encryption=none&flow=&host=0613.heweiyi.dpdns.org&path=%2F#[🇸🇧 SB] VLESS-ws | src:lalatinahub-mineral
-vless://3e06b1db-2efb-446e-ba2d-68850dfd2f9d@104.26.13.31:8080?sni=ip.sb&type=ws&host=bdfba-cool-tree-b580.v8fz4kbv.workers.dev&path=#[🇸🇧 SB] VLESS-ws | src:leon406-subcrawler-vless
 vless://3e06b1db-2efb-446e-ba2d-68850dfd2f9d@104.21.0.1:8080?sni=ip.sb&type=ws&host=bdfba-cool-tree-b580.v8fz4kbv.workers.dev&path=#[🇸🇧 SB] VLESS-ws | src:leon406-subcrawler-vless
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ip.sb:443?path=%2F&security=tls&encryption=none&insecure=1&host=3-7ny.pages.dev&fp=chrome&type=ws&allowInsecure=1&sni=3-7ny.pages.dev#[🇸🇧 SB] VLESS-ws | src:tg-father_vpn

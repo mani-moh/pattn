@@ -2,6 +2,8 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
+vless://e6552569-97ce-430c-a324-53ad1c546e05@38.207.172.59:28418/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=op.gg&fp=chrome&security=reality&pbk=mfxE6lW_fuPZKWtrySdTx9HOh0vtX3-7aMiYDCh2YCA&sid=ddd21e20#[🇬🇬 GG] VLESS-Reality | src:miladtahanian-mixed-iran
+vless://e6552569-97ce-430c-a324-53ad1c546e05@38.207.172.59:28418?sni=op.gg&flow=xtls-rprx-vision&fp=chrome&security=tls#[🇬🇬 GG] VLESS | src:heliataromi-confighub-mixed
 vless://--DIGiV2RAY---@discord.gg:80?path=/Digiv2ray-&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#[🇬🇬 GG] VLESS-ws | src:0xradikal-all
 vless://-DIGiV2RAY@discord.gg:80?path=/Digiv2ray-&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#[🇬🇬 GG] VLESS-ws | src:0xradikal-all
 vless://DIGiV2RAY-@discord.gg:80?path=/Digiv2ray-&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#[🇬🇬 GG] VLESS-ws | src:0xradikal-all
