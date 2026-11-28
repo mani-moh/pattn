@@ -2,8 +2,9 @@
 #profile-update-interval: 6
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=4102444800
 
-vless://4bec3709-0954-4173-ae59-3dee6cb8b961@91.192.158.251:2066?security=reality&amp;encryption=none&amp;pbk=84GM9QUTdTfTrhR-8loDOu7VA0LFW8X02vSvBQdsLAg&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=1b2a3f#[🇦🇲 AM] VLESS-Reality | src:heliataromi-confighub-mixed
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@54.39.96.233:8080#[🇦🇲 AM] SS | src:0xradikal-all
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=armwwww.appleseraj.ir&sni=armwwww.appleseraj.ir&fp=chrome#[🇦🇲 AM] VLESS-ws | src:0xradikal-all
+vless://4bec3709-0954-4173-ae59-3dee6cb8b961@91.192.158.251:2066?security=reality&amp;encryption=none&amp;pbk=84GM9QUTdTfTrhR-8loDOu7VA0LFW8X02vSvBQdsLAg&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=1b2a3f#[🇦🇲 AM] VLESS-Reality | src:heliataromi-confighub-mixed
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZHBNNFJPdm9MdGF5aTdOTjlESUlk@194.156.103.148:443#[🇦🇲 AM] SS | src:sub-07d2577deb
 vless://2b208266-cb5e-45f1-b3d9-fc607427f8d2@89.19.223.198:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=am1.maxtelemost.com&fp=firefox&pbk=CFdJn5EkK8QhYWrYo4XOKDr4Kx48KEI3Cw5eKMoLcSo&sid=61402f0bb28cf3b8#[🇦🇲 AM] VLESS-Reality | src:sub-660b258b53
 vless://636d3fe4-eb1f-49ee-9f70-2f4ec935015a@am.speeditest.ir:81?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇦🇲 AM] VLESS-tcp | src:elf2017spring-configshub

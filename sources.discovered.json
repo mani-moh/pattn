@@ -1822,6 +1822,80 @@
         "iran"
       ],
       "enabled": true
+    },
+    {
+      "id": "sub-ec1644c41b",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/ELiV2-hub/ELiV2-RAY/refs/heads/main/Subscription_ELiV2-Ray.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-7e49603060",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/ELiV2-hub/ELiV2-RAY/refs/heads/main/Free_Sub_By_ELENAAA.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-1f8c3b8170",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/ELiV2-hub/ELiV2-RAY/refs/heads/main/Subscription35_ELiV2_renamed.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "sub-5f5a1a7bee",
+      "name": "Discovered Sub (https://raw.githubusercontent....)",
+      "url": "https://raw.githubusercontent.com/eliv2-hub/ELiV2-RAY/refs/heads/main/Elenaaaa-ELiV2.txt",
+      "verified_upstream": false,
+      "format": "auto",
+      "tags": [
+        "auto-discovered",
+        "subscription"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-eliv2ray",
+      "name": "Telegram @eliv2ray",
+      "url": "https://t.me/s/eliv2ray",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "tg-shh_proxy",
+      "name": "Telegram @shh_proxy",
+      "url": "https://t.me/s/shh_proxy",
+      "verified_upstream": false,
+      "format": "telegram_web",
+      "tags": [
+        "auto-discovered",
+        "telegram",
+        "iran"
+      ],
+      "enabled": true
     }
   ]
 }
